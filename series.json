@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_movies": 4485,
-    "last_processed_at": "2026-02-05T15:21:52.398Z",
+    "last_processed_at": "2026-02-05T15:47:02.960Z",
     "rate_limit": 40,
     "last_session_errors": 11,
     "duplicate_strategy": "keep_first",
@@ -1630,7 +1630,7 @@
       ],
       "popularity": 6.9901,
       "poster_path": "/eQCB7nytNXlUfaeKStXB9q9PcJk.jpg",
-      "vote_average": 4.283,
+      "vote_average": 4.3,
       "vote_count": 23
     },
     {
@@ -7875,8 +7875,8 @@
       ],
       "popularity": 1.9418,
       "poster_path": "/nFUNUO9ZaMvCqieKjE6uePvi92S.jpg",
-      "vote_average": 7.464,
-      "vote_count": 330
+      "vote_average": 7.462,
+      "vote_count": 331
     },
     {
       "id": 100833,
@@ -51230,7 +51230,7 @@
       ],
       "popularity": 16.6702,
       "poster_path": "/iRCmazqaUNNsgZyR6tNDl88pXp3.jpg",
-      "vote_average": 7.52,
+      "vote_average": 7.5,
       "vote_count": 325
     },
     {
@@ -52552,8 +52552,8 @@
       ],
       "popularity": 5.7222,
       "poster_path": "/aZrdCklOUe4nQ1sbH3j2WjMXGIe.jpg",
-      "vote_average": 6.756,
-      "vote_count": 135
+      "vote_average": 6.757,
+      "vote_count": 136
     },
     {
       "id": 229854,
@@ -53103,8 +53103,8 @@
       ],
       "popularity": 8.1665,
       "poster_path": "/Ertv4WLEyHgi8zN4ldOKgPcGAZ.jpg",
-      "vote_average": 7.132,
-      "vote_count": 433
+      "vote_average": 7.131,
+      "vote_count": 434
     },
     {
       "id": 217088,
@@ -56101,8 +56101,8 @@
       ],
       "popularity": 28.5432,
       "poster_path": "/jxreNunNZ1HJLFO24hQ5t4O942w.jpg",
-      "vote_average": 7.707,
-      "vote_count": 985
+      "vote_average": 7.7,
+      "vote_count": 986
     },
     {
       "id": 4057,

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_movies": 11352,
-    "last_processed_at": "2026-02-05T15:17:07.396Z",
+    "last_processed_at": "2026-02-05T15:42:26.811Z",
     "rate_limit": 40,
     "last_session_errors": 55,
     "duplicate_strategy": "keep_first",
@@ -5686,8 +5686,8 @@
       ],
       "popularity": 0.1957,
       "release_date": "2018-04-25",
-      "vote_average": 5.419,
-      "vote_count": 93,
+      "vote_average": 5.426,
+      "vote_count": 94,
       "poster_path": "/m7rx6YxAmU7gPUVmxMGX7rN1wUu.jpg",
       "runtime": 87
     },
@@ -10710,8 +10710,8 @@
       ],
       "popularity": 216.8087,
       "release_date": "2025-12-24",
-      "vote_average": 5.87,
-      "vote_count": 443,
+      "vote_average": 5.863,
+      "vote_count": 448,
       "poster_path": "/qp8JklgbpFFXmKZv78kde1duVO2.jpg",
       "runtime": 100
     },
@@ -16266,8 +16266,8 @@
       ],
       "popularity": 3.9946,
       "release_date": "2013-03-07",
-      "vote_average": 5.9,
-      "vote_count": 6720,
+      "vote_average": 5.93,
+      "vote_count": 6721,
       "poster_path": "/nTz7lo17ucFniEG5gXQOxFWpD0s.jpg",
       "runtime": 127
     },
@@ -20662,8 +20662,8 @@
       ],
       "popularity": 2.1257,
       "release_date": "2016-08-11",
-      "vote_average": 6.176,
-      "vote_count": 1621,
+      "vote_average": 6.171,
+      "vote_count": 1627,
       "poster_path": "/yUG8LjlnQRHE6FCcUgRYJMrmIM9.jpg",
       "runtime": 88
     },
@@ -29130,8 +29130,8 @@
       ],
       "popularity": 31.3416,
       "release_date": "2025-11-06",
-      "vote_average": 7.37,
-      "vote_count": 518,
+      "vote_average": 7.371,
+      "vote_count": 521,
       "poster_path": "/iXmfBDpY568Hz8xa021eFoU62jA.jpg",
       "runtime": 148
     },
@@ -44435,8 +44435,8 @@
       ],
       "popularity": 3.4674,
       "release_date": "2025-03-27",
-      "vote_average": 6.623,
-      "vote_count": 203,
+      "vote_average": 6.62,
+      "vote_count": 204,
       "poster_path": "/hjjPe2rQINX18JvS0EiWfxlJaFg.jpg",
       "runtime": 123
     },
@@ -52403,8 +52403,8 @@
       ],
       "popularity": 8.3607,
       "release_date": "2025-08-27",
-      "vote_average": 6.712,
-      "vote_count": 553,
+      "vote_average": 6.711,
+      "vote_count": 554,
       "poster_path": "/xVqJpA7CnYD9hVzeHby8oSm6fIF.jpg",
       "runtime": 105
     },
@@ -56151,8 +56151,8 @@
       ],
       "popularity": 20.8082,
       "release_date": "2025-07-30",
-      "vote_average": 6.429,
-      "vote_count": 1384,
+      "vote_average": 6.428,
+      "vote_count": 1385,
       "poster_path": "/tL8WM2MW87Sf48QctGHIpnnNSWK.jpg",
       "runtime": 85
     },
@@ -59644,7 +59644,7 @@
       "popularity": 2.0897,
       "release_date": "1994-09-28",
       "vote_average": 7.483,
-      "vote_count": 2464,
+      "vote_count": 2465,
       "poster_path": "/iMnrnN4zenTNsqmbzEybRWxHTuO.jpg",
       "runtime": 127
     },
@@ -59888,7 +59888,7 @@
       "popularity": 6.5251,
       "release_date": "1990-11-30",
       "vote_average": 7.745,
-      "vote_count": 5087,
+      "vote_count": 5088,
       "poster_path": "/25D6fEcO6ttqotgc6k0eRqY9coc.jpg",
       "runtime": 107
     },
@@ -64424,7 +64424,7 @@
       "popularity": 2.0069,
       "release_date": "1956-03-02",
       "vote_average": 7.25,
-      "vote_count": 1026,
+      "vote_count": 1027,
       "poster_path": "/8LPseCfcWN695W2HfXQtUMJxnvC.jpg",
       "runtime": 98
     },
@@ -76018,8 +76018,8 @@
       ],
       "popularity": 0.132,
       "release_date": "2014-02-13",
-      "vote_average": 5.812,
-      "vote_count": 295,
+      "vote_average": 5.813,
+      "vote_count": 296,
       "poster_path": "/4JXtUrAKrfdiZa8dSZwuKWzTadS.jpg",
       "runtime": 106
     },
@@ -81638,8 +81638,8 @@
       ],
       "popularity": 12.2388,
       "release_date": "2025-01-22",
-      "vote_average": 7,
-      "vote_count": 2049,
+      "vote_average": 7.021,
+      "vote_count": 2050,
       "poster_path": "/AbH00wyIzvwHkiBVyRXKN4Phytl.jpg",
       "runtime": 97
     },
@@ -99145,8 +99145,8 @@
       ],
       "popularity": 3.9596,
       "release_date": "1993-04-07",
-      "vote_average": 6.4,
-      "vote_count": 1568,
+      "vote_average": 6.395,
+      "vote_count": 1570,
       "poster_path": "/mXwdC36CjPCc1sSTcVSwCExfnY5.jpg",
       "runtime": 117
     },
@@ -99325,7 +99325,7 @@
       ],
       "popularity": 8.8064,
       "release_date": "2024-10-09",
-      "vote_average": 6.795,
+      "vote_average": 6.8,
       "vote_count": 1864,
       "poster_path": "/h24qwvXSXIAVXsbftPhNtYEkoLg.jpg",
       "runtime": 125
@@ -100345,8 +100345,8 @@
       ],
       "popularity": 1.0002,
       "release_date": "2023-03-23",
-      "vote_average": 5.9,
-      "vote_count": 57,
+      "vote_average": 5.888,
+      "vote_count": 58,
       "poster_path": "/jjNnDquD2CrYRB40SopYbcwbHku.jpg",
       "runtime": 105
     },
@@ -106205,7 +106205,7 @@
       ],
       "popularity": 3.2448,
       "release_date": "2011-10-12",
-      "vote_average": 6.229,
+      "vote_average": 6.228,
       "vote_count": 3123,
       "poster_path": "/gWkYBw4VL6iAvsmvh8JdQK18cjM.jpg",
       "runtime": 103
@@ -111624,8 +111624,8 @@
       ],
       "popularity": 0.0825,
       "release_date": "2017-01-16",
-      "vote_average": 6.9,
-      "vote_count": 11,
+      "vote_average": 7,
+      "vote_count": 12,
       "poster_path": "/iL5pcQuOXNTBtqPv2EbmbvljFur.jpg",
       "runtime": 100
     },
@@ -111697,7 +111697,7 @@
       "popularity": 0.1678,
       "release_date": "2016-01-11",
       "vote_average": 6.6,
-      "vote_count": 19,
+      "vote_count": 20,
       "poster_path": "/h78fdqLjdfdvjGvCzWGBVbltmFY.jpg",
       "runtime": 100
     },
@@ -111761,7 +111761,7 @@
       "popularity": 0.0641,
       "release_date": "2013-11-17",
       "vote_average": 6.8,
-      "vote_count": 14,
+      "vote_count": 15,
       "poster_path": "/1tZJAs39iwxPRK63nqCnLkdRcI.jpg",
       "runtime": 139
     },
@@ -115241,8 +115241,8 @@
       ],
       "popularity": 4.2554,
       "release_date": "2024-05-16",
-      "vote_average": 6.789,
-      "vote_count": 1517,
+      "vote_average": 6.791,
+      "vote_count": 1518,
       "poster_path": "/gLuasnE7iLAIMSH9frWTilBpD8r.jpg",
       "runtime": 113
     },
@@ -121841,8 +121841,8 @@
       ],
       "popularity": 6.8238,
       "release_date": "1986-12-19",
-      "vote_average": 7.746,
-      "vote_count": 4941,
+      "vote_average": 7.745,
+      "vote_count": 4943,
       "poster_path": "/7Y7QKOuHgOJUR8omRCWk3tbKKyb.jpg",
       "runtime": 120
     },
@@ -125061,8 +125061,8 @@
       ],
       "popularity": 1.1097,
       "release_date": "2023-04-19",
-      "vote_average": 6.535,
-      "vote_count": 283,
+      "vote_average": 6.514,
+      "vote_count": 284,
       "poster_path": "/6CWEkGjLX6uLcEUwpp9PewYHigI.jpg",
       "runtime": 59
     },
@@ -131069,8 +131069,8 @@
       ],
       "popularity": 1.9187,
       "release_date": "2013-11-29",
-      "vote_average": 7.344,
-      "vote_count": 3430,
+      "vote_average": 7.343,
+      "vote_count": 3431,
       "poster_path": "/q84Etg4TGM5tnCScV2MaKGpUAIq.jpg",
       "runtime": 120
     },
@@ -137720,7 +137720,7 @@
       "popularity": 4.7726,
       "release_date": "2009-03-19",
       "vote_average": 6.239,
-      "vote_count": 5659,
+      "vote_count": 5660,
       "poster_path": "/eBedIu1XtSqjTtMBGdF7O6Hddnh.jpg",
       "runtime": 121
     },
@@ -140585,7 +140585,7 @@
       "popularity": 2.093,
       "release_date": "2022-01-14",
       "vote_average": 7.021,
-      "vote_count": 1108,
+      "vote_count": 1109,
       "poster_path": "/x3SBuIfmYfCdbFG8qKXGOQSrTh1.jpg",
       "runtime": 97
     },
@@ -141632,8 +141632,8 @@
       ],
       "popularity": 10.6187,
       "release_date": "1957-04-10",
-      "vote_average": 8.6,
-      "vote_count": 9712,
+      "vote_average": 8.554,
+      "vote_count": 9714,
       "poster_path": "/6lvkCuYuqpbmK1OPcv5oKleWbgV.jpg",
       "runtime": 96
     },
@@ -143335,8 +143335,8 @@
       ],
       "popularity": 5.8251,
       "release_date": "1996-12-20",
-      "vote_average": 6.94,
-      "vote_count": 762,
+      "vote_average": 6.944,
+      "vote_count": 763,
       "poster_path": "/uyIO4UfPiJgnugMtg754dL3izcy.jpg",
       "runtime": 91
     },
@@ -143911,8 +143911,8 @@
       ],
       "popularity": 1.4006,
       "release_date": "2023-10-18",
-      "vote_average": 7.077,
-      "vote_count": 525,
+      "vote_average": 7.079,
+      "vote_count": 526,
       "poster_path": "/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
       "runtime": 120
     },
@@ -144387,7 +144387,7 @@
       ],
       "popularity": 13.2194,
       "release_date": "2003-11-21",
-      "vote_average": 8.24,
+      "vote_average": 8.2,
       "vote_count": 9542,
       "poster_path": "/bVL3wpVhjmkWdG2jWj1cv9L8pjR.jpg",
       "runtime": 119
@@ -145532,7 +145532,7 @@
       "popularity": 6.5976,
       "release_date": "2023-08-09",
       "vote_average": 7.729,
-      "vote_count": 3236,
+      "vote_count": 3237,
       "poster_path": "/34moeAXmzjYgDq73yzy1kuYe4di.jpg",
       "runtime": 135
     },
@@ -152899,7 +152899,7 @@
       "popularity": 9.4692,
       "release_date": "2023-06-06",
       "vote_average": 7.189,
-      "vote_count": 5154,
+      "vote_count": 5155,
       "poster_path": "/7VLWQa5h1eyJ3xX7KWwQdjxogHg.jpg",
       "runtime": 127
     },
@@ -159186,8 +159186,8 @@
       ],
       "popularity": 14.0104,
       "release_date": "2022-11-09",
-      "vote_average": 7.014,
-      "vote_count": 7245,
+      "vote_average": 7,
+      "vote_count": 7246,
       "poster_path": "/jcDnXDBMj11W4jfa8oeUON1lcut.jpg",
       "runtime": 163
     },
@@ -161298,8 +161298,8 @@
       ],
       "popularity": 8.0852,
       "release_date": "2022-09-23",
-      "vote_average": 6.496,
-      "vote_count": 749,
+      "vote_average": 6.497,
+      "vote_count": 750,
       "poster_path": "/djM2s4wSaATn4jVB33cV05PEbV7.jpg",
       "runtime": 107
     },
@@ -163326,8 +163326,8 @@
       ],
       "popularity": 0.5912,
       "release_date": "2013-11-29",
-      "vote_average": 6.624,
-      "vote_count": 113,
+      "vote_average": 6.627,
+      "vote_count": 114,
       "poster_path": "/v2ClGoeLyX4Vmgzk6Q80OANCFi6.jpg",
       "runtime": 75
     },
@@ -164271,7 +164271,7 @@
       "popularity": 7.5062,
       "release_date": "2022-07-29",
       "vote_average": 8.051,
-      "vote_count": 2816,
+      "vote_count": 2817,
       "poster_path": "/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
       "runtime": 122
     },
@@ -165010,7 +165010,7 @@
       ],
       "popularity": 2.5043,
       "release_date": "2022-05-26",
-      "vote_average": 6.966,
+      "vote_average": 7,
       "vote_count": 350,
       "poster_path": "/imKRu6uFw9msqInV5C0b61fvlbw.jpg",
       "runtime": 103
@@ -167362,8 +167362,8 @@
       ],
       "popularity": 0.1896,
       "release_date": "2022-04-21",
-      "vote_average": 5.345,
-      "vote_count": 110,
+      "vote_average": 5.342,
+      "vote_count": 111,
       "poster_path": "/cT8rkO8y9Jysbgl1hnuSs1BaAFk.jpg",
       "runtime": 91
     },
@@ -170218,7 +170218,7 @@
       "popularity": 3.0202,
       "release_date": "2022-03-16",
       "vote_average": 6.626,
-      "vote_count": 2360,
+      "vote_count": 2361,
       "poster_path": "/dHvZIGVDkVrFYSeyv4cKTGozraR.jpg",
       "runtime": 136
     },
@@ -171930,7 +171930,7 @@
       "popularity": 3.3122,
       "release_date": "2007-04-25",
       "vote_average": 6.12,
-      "vote_count": 3179,
+      "vote_count": 3180,
       "poster_path": "/vjcAHGabCBwP6nJIYA7GVdO6yAL.jpg",
       "runtime": 96
     },
@@ -184798,7 +184798,7 @@
       "popularity": 22.1195,
       "release_date": "2021-12-15",
       "vote_average": 7.9,
-      "vote_count": 21522,
+      "vote_count": 21523,
       "poster_path": "/nt4ydhdArDsjinTrV1lct0pYipA.jpg",
       "runtime": 148
     },
@@ -187054,7 +187054,7 @@
       "popularity": 2.4506,
       "release_date": "1996-11-22",
       "vote_average": 7.294,
-      "vote_count": 1901,
+      "vote_count": 1902,
       "poster_path": "/lXv8VSzgeT9pdlGEhVpnSqnxdmk.jpg",
       "runtime": 111
     },
@@ -198412,8 +198412,8 @@
       ],
       "popularity": 7.5027,
       "release_date": "2012-04-11",
-      "vote_average": 5.9,
-      "vote_count": 5811,
+      "vote_average": 5.882,
+      "vote_count": 5812,
       "poster_path": "/8mx8Rs7C9YYaIWOFk9bQvCO3GHD.jpg",
       "runtime": 131
     },
@@ -202980,8 +202980,8 @@
       ],
       "popularity": 3.8946,
       "release_date": "1993-10-01",
-      "vote_average": 7.009,
-      "vote_count": 2197,
+      "vote_average": 7.01,
+      "vote_count": 2198,
       "poster_path": "/eXkBj5XMkxzR0ElMh6n3fpFxGrh.jpg",
       "runtime": 97
     },
@@ -204527,8 +204527,8 @@
       ],
       "popularity": 4.3811,
       "release_date": "2012-03-28",
-      "vote_average": 5.757,
-      "vote_count": 4424,
+      "vote_average": 5.756,
+      "vote_count": 4425,
       "poster_path": "/7l0tGRyWfemhMulEzTUrJW0Abgm.jpg",
       "runtime": 99
     },
@@ -209687,8 +209687,8 @@
       ],
       "popularity": 3.4485,
       "release_date": "2020-10-26",
-      "vote_average": 6.342,
-      "vote_count": 2947,
+      "vote_average": 6.341,
+      "vote_count": 2948,
       "poster_path": "/cFhxkePoJ5wfGCj07mJ5dz5TQRQ.jpg",
       "runtime": 106
     },
@@ -211008,7 +211008,7 @@
       "popularity": 6.2366,
       "release_date": "1984-03-22",
       "vote_average": 6.694,
-      "vote_count": 2902,
+      "vote_count": 2903,
       "poster_path": "/25Wpb64QAIV5KFOfFgoNO0tCkoh.jpg",
       "runtime": 97
     },
@@ -211067,8 +211067,8 @@
       ],
       "popularity": 1.6466,
       "release_date": "1994-06-09",
-      "vote_average": 4.604,
-      "vote_count": 951,
+      "vote_average": 4.603,
+      "vote_count": 952,
       "poster_path": "/cLzNe9pPHUIfrYDdgEbOO2YusMv.jpg",
       "runtime": 83
     },
@@ -212132,7 +212132,7 @@
       "popularity": 7.7132,
       "release_date": "2011-08-03",
       "vote_average": 7.339,
-      "vote_count": 12523,
+      "vote_count": 12524,
       "poster_path": "/aPrl1dcSq8lVTASkd3awG2DkOCs.jpg",
       "runtime": 105
     },
@@ -215951,8 +215951,8 @@
       ],
       "popularity": 0.6524,
       "release_date": "1965-09-18",
-      "vote_average": 7.1,
-      "vote_count": 200,
+      "vote_average": 7.134,
+      "vote_count": 201,
       "poster_path": "/rBNEwPdjy8Ph8MDdYvaxlT1mlIN.jpg",
       "runtime": 93
     },
@@ -218052,7 +218052,7 @@
       "popularity": 8.187,
       "release_date": "2010-06-10",
       "vote_average": 6.566,
-      "vote_count": 6427,
+      "vote_count": 6428,
       "poster_path": "/usxoDGYR2pco8ZESlApAHNaGj6G.jpg",
       "runtime": 140
     },
@@ -220028,7 +220028,7 @@
       "popularity": 3.1549,
       "release_date": "2016-10-13",
       "vote_average": 7.563,
-      "vote_count": 13517,
+      "vote_count": 13518,
       "poster_path": "/43vjVkkeYKavbiUTJPoIXejkNAk.jpg",
       "runtime": 107
     },
@@ -221343,8 +221343,8 @@
       ],
       "popularity": 0.8701,
       "release_date": "2005-12-16",
-      "vote_average": 5.971,
-      "vote_count": 491,
+      "vote_average": 5.972,
+      "vote_count": 492,
       "poster_path": "/sAD8wEFbGwVIJHrps9Zll9Ov2Rt.jpg",
       "runtime": 99
     },
@@ -223996,7 +223996,7 @@
       "popularity": 8.0185,
       "release_date": "2004-04-16",
       "vote_average": 7.877,
-      "vote_count": 14762,
+      "vote_count": 14763,
       "poster_path": "/js9z3Dyl3OQ3euFyuFdgK25w4CW.jpg",
       "runtime": 110
     },
@@ -227300,7 +227300,7 @@
       "popularity": 0.8288,
       "release_date": "2017-12-28",
       "vote_average": 6.479,
-      "vote_count": 936,
+      "vote_count": 937,
       "poster_path": "/xfIfo2JTPpLL06njlaRBxWVH9kN.jpg",
       "runtime": 98
     },
@@ -228372,7 +228372,7 @@
       "popularity": 11.5601,
       "release_date": "2015-05-13",
       "vote_average": 7.629,
-      "vote_count": 23715,
+      "vote_count": 23716,
       "poster_path": "/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
       "runtime": 120
     },
@@ -229252,7 +229252,7 @@
       "popularity": 23.392,
       "release_date": "2003-12-17",
       "vote_average": 8.493,
-      "vote_count": 25969,
+      "vote_count": 25970,
       "poster_path": "/eCua9No8HqVxGajDQrG8mvRCtJM.jpg",
       "runtime": 201
     },
@@ -229868,7 +229868,7 @@
       "popularity": 8.5411,
       "release_date": "2015-09-17",
       "vote_average": 7.416,
-      "vote_count": 9307,
+      "vote_count": 9308,
       "poster_path": "/6jWfuZSOdFSUvMpE2SsOFNpg1EU.jpg",
       "runtime": 121
     },
@@ -230635,8 +230635,8 @@
       ],
       "popularity": 3.0219,
       "release_date": "2020-02-12",
-      "vote_average": 5.763,
-      "vote_count": 2597,
+      "vote_average": 5.764,
+      "vote_count": 2598,
       "poster_path": "/sBi59ePozU5E3mVioxULDNSY4XV.jpg",
       "runtime": 109
     },
@@ -231708,7 +231708,7 @@
       "popularity": 8.6751,
       "release_date": "2013-06-26",
       "vote_average": 6.94,
-      "vote_count": 11819,
+      "vote_count": 11820,
       "poster_path": "/6VOIMY3DrNPqKwl56N6nQaoRIYR.jpg",
       "runtime": 98
     },
@@ -232259,7 +232259,7 @@
       ],
       "popularity": 19.4145,
       "release_date": "2015-02-11",
-      "vote_average": 5.873,
+      "vote_average": 5.9,
       "vote_count": 12243,
       "poster_path": "/q9ii8pvUrpxkoLEcfto6194XXXo.jpg",
       "runtime": 124
@@ -232808,7 +232808,7 @@
       "popularity": 5.0215,
       "release_date": "2018-03-21",
       "vote_average": 6.128,
-      "vote_count": 5222,
+      "vote_count": 5224,
       "poster_path": "/8u4veueqCrCczz1ktTCjavIVUiV.jpg",
       "runtime": 111
     },
@@ -232871,8 +232871,8 @@
       ],
       "popularity": 3.3812,
       "release_date": "2019-05-15",
-      "vote_average": 5.43,
-      "vote_count": 2791,
+      "vote_average": 5.432,
+      "vote_count": 2792,
       "poster_path": "/kH06B4Tal8TdSVCvqvMcqfCGecA.jpg",
       "runtime": 104
     },
@@ -233323,7 +233323,7 @@
       ],
       "popularity": 8.7313,
       "release_date": "2017-06-28",
-      "vote_average": 7.442,
+      "vote_average": 7.4,
       "vote_count": 16551,
       "poster_path": "/kEtJaQrpm508XUyMK11QjXLzDCO.jpg",
       "runtime": 113
@@ -233447,8 +233447,8 @@
       ],
       "popularity": 13.4967,
       "release_date": "2002-03-14",
-      "vote_average": 7.4,
-      "vote_count": 14040,
+      "vote_average": 7.367,
+      "vote_count": 14041,
       "poster_path": "/dSWZ3oXT7ggTKvcD3noqYhKwTUa.jpg",
       "runtime": 81
     },
@@ -234168,7 +234168,7 @@
       "popularity": 3.6595,
       "release_date": "2017-02-02",
       "vote_average": 7.362,
-      "vote_count": 1238,
+      "vote_count": 1239,
       "poster_path": "/dNjjYoG548jXR4GS5HfLQkVymid.jpg",
       "runtime": 119
     },
@@ -235912,7 +235912,7 @@
       "popularity": 5.0978,
       "release_date": "1995-06-30",
       "vote_average": 7.451,
-      "vote_count": 5745,
+      "vote_count": 5746,
       "poster_path": "/bNeuaw2gXXRdWWagLxY45UEIN7l.jpg",
       "runtime": 140
     },
@@ -237023,8 +237023,8 @@
       ],
       "popularity": 0.2257,
       "release_date": "1984-10-26",
-      "vote_average": 6.519,
-      "vote_count": 390,
+      "vote_average": 6.526,
+      "vote_count": 391,
       "poster_path": "/qZioqqIwcJGQ8mckT77QsoDIdxF.jpg",
       "runtime": 96
     },
@@ -241328,7 +241328,7 @@
       "popularity": 2.5828,
       "release_date": "2016-12-15",
       "vote_average": 7.217,
-      "vote_count": 5505,
+      "vote_count": 5506,
       "poster_path": "/vgetZfIJw3NhTE9LNplbR6tUEJE.jpg",
       "runtime": 97
     },
@@ -241756,7 +241756,7 @@
       "popularity": 0.4574,
       "release_date": "2000-07-13",
       "vote_average": 7.009,
-      "vote_count": 11972,
+      "vote_count": 11973,
       "poster_path": "/qLviQfeOaPysjLoYknc73teh5G1.jpg",
       "runtime": 104
     },
@@ -241828,7 +241828,7 @@
       "popularity": 6.3816,
       "release_date": "2019-09-18",
       "vote_average": 6.531,
-      "vote_count": 4122,
+      "vote_count": 4123,
       "poster_path": "/qs5u7sQLLZZGvLu0yQ9alCmV7wm.jpg",
       "runtime": 101
     },
@@ -241920,7 +241920,7 @@
       "popularity": 17.3951,
       "release_date": "2002-05-01",
       "vote_average": 7.32,
-      "vote_count": 20251,
+      "vote_count": 20252,
       "poster_path": "/A391726gbRaD1aqjLxkdKjjAtwu.jpg",
       "runtime": 121
     },
@@ -242103,8 +242103,8 @@
       ],
       "popularity": 0.3808,
       "release_date": "2003-04-27",
-      "vote_average": 7.032,
-      "vote_count": 10700,
+      "vote_average": 7.033,
+      "vote_count": 10701,
       "poster_path": "/mYguailJki5YgMymhBIID6MuzG1.jpg",
       "runtime": 133
     },
@@ -242412,7 +242412,7 @@
       "popularity": 1.4117,
       "release_date": "2013-07-21",
       "vote_average": 6.428,
-      "vote_count": 10109,
+      "vote_count": 10110,
       "poster_path": "/rz5NIc10BCjQATvTNwfeiRaTng5.jpg",
       "runtime": 107
     },
@@ -242731,8 +242731,8 @@
       ],
       "popularity": 17.4134,
       "release_date": "2010-04-28",
-      "vote_average": 6.85,
-      "vote_count": 22032,
+      "vote_average": 6.8,
+      "vote_count": 22033,
       "poster_path": "/lWSyc4wVNQyjlCtcZSIDauJTInI.jpg",
       "runtime": 124
     },
@@ -244075,8 +244075,8 @@
       ],
       "popularity": 16.1581,
       "release_date": "2019-04-24",
-      "vote_average": 8.236,
-      "vote_count": 27206,
+      "vote_average": 8.2,
+      "vote_count": 27207,
       "poster_path": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
       "runtime": 181
     },
@@ -244996,7 +244996,7 @@
       "popularity": 11.7152,
       "release_date": "2007-12-12",
       "vote_average": 7.21,
-      "vote_count": 16535,
+      "vote_count": 16536,
       "poster_path": "/lrHsksAln0IxYFfZVgW6iRTaUsi.jpg",
       "runtime": 100
     },
