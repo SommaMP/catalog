@@ -1,8 +1,8 @@
 {
   "metadata": {
     "total_movies": 12226,
-    "new_movies_added": 3,
-    "last_processed_at": "2026-05-12T05:54:16.686Z",
+    "new_movies_added": 0,
+    "last_processed_at": "2026-05-12T06:26:11.076Z",
     "rate_limit": 40,
     "duplicate_strategy": "keep_first",
     "last_session_errors": 16,
@@ -178,10 +178,10 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 137.5899,
+      "popularity": 140.2924,
       "release_date": "2026-05-07",
-      "vote_average": 8.118,
-      "vote_count": 85,
+      "vote_average": 8.201,
+      "vote_count": 112,
       "poster_path": "/8pUkU7t4MhfIaxbSPYeRTo96jdl.jpg",
       "runtime": 114
     },
@@ -754,7 +754,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.5327,
+      "popularity": 1.7603,
       "release_date": "1986-08-27",
       "vote_average": 7.682,
       "vote_count": 608,
@@ -1186,7 +1186,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 1.3068,
+      "popularity": 1.1511,
       "release_date": "1980-01-23",
       "vote_average": 6.3,
       "vote_count": 114,
@@ -1274,7 +1274,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 1.8702,
+      "popularity": 1.6114,
       "release_date": "1968-08-01",
       "vote_average": 6.9,
       "vote_count": 277,
@@ -1926,7 +1926,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.0422,
+      "popularity": 1.1041,
       "release_date": "1972-12-22",
       "vote_average": 6.801,
       "vote_count": 425,
@@ -2238,7 +2238,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 1.5206,
+      "popularity": 1.4782,
       "release_date": "1985-12-10",
       "vote_average": 6.229,
       "vote_count": 199,
@@ -2346,7 +2346,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 4.253,
+      "popularity": 4.1469,
       "release_date": "1954-11-03",
       "vote_average": 7.627,
       "vote_count": 1099,
@@ -2586,7 +2586,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 3.1858,
+      "popularity": 3.4,
       "release_date": "1949-08-31",
       "vote_average": 7.9,
       "vote_count": 2090,
@@ -2942,7 +2942,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 1.935,
+      "popularity": 2.0207,
       "release_date": "1966-12-13",
       "vote_average": 7.354,
       "vote_count": 496,
@@ -3370,7 +3370,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.982,
+      "popularity": 1.031,
       "release_date": "1976-03-17",
       "vote_average": 7.14,
       "vote_count": 154,
@@ -3546,7 +3546,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.0657,
+      "popularity": 1.0362,
       "release_date": "2006-09-08",
       "vote_average": 7.126,
       "vote_count": 190,
@@ -3646,7 +3646,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.095,
+      "popularity": 0.9643,
       "release_date": "1965-08-06",
       "vote_average": 6.335,
       "vote_count": 361,
@@ -3690,7 +3690,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.6384,
+      "popularity": 2.8267,
       "release_date": "1960-08-10",
       "vote_average": 6.372,
       "vote_count": 395,
@@ -4198,10 +4198,10 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 475.4302,
+      "popularity": 444.1758,
       "release_date": "2026-05-01",
-      "vote_average": 8.919,
-      "vote_count": 514,
+      "vote_average": 8.926,
+      "vote_count": 587,
       "poster_path": "/uCRXsCpMZJDrxAAXJC2xHOz6r9T.jpg",
       "runtime": 102
     },
@@ -4350,7 +4350,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 0.4179,
+      "popularity": 0.3772,
       "release_date": "2023-06-21",
       "vote_average": 5.2,
       "vote_count": 32,
@@ -4610,10 +4610,10 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 38.7645,
+      "popularity": 34.8973,
       "release_date": "2026-04-15",
-      "vote_average": 6.7,
-      "vote_count": 193,
+      "vote_average": 6.714,
+      "vote_count": 194,
       "poster_path": "/kMSo4HqiK1MQ20HhLX8UoNrprZw.jpg",
       "runtime": 133
     },
@@ -5938,7 +5938,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 1.6868,
+      "popularity": 1.7575,
       "release_date": "2017-10-04",
       "vote_average": 6.1,
       "vote_count": 167,
@@ -5958,10 +5958,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 33.9859,
+      "popularity": 29.7522,
       "release_date": "2026-04-10",
       "vote_average": 5.962,
-      "vote_count": 533,
+      "vote_count": 535,
       "poster_path": "/eDb6dYwPCkqR2sk3KYJIhbqc5hq.jpg",
       "runtime": 84
     },
@@ -6450,7 +6450,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 3.8541,
+      "popularity": 3.7035,
       "release_date": "1988-07-29",
       "vote_average": 6.114,
       "vote_count": 1615,
@@ -6482,7 +6482,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.2291,
+      "popularity": 1.2052,
       "release_date": "2025-11-13",
       "vote_average": 6.423,
       "vote_count": 91,
@@ -6530,7 +6530,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.486,
+      "popularity": 2.7708,
       "release_date": "1980-02-15",
       "vote_average": 6.6,
       "vote_count": 621,
@@ -6950,7 +6950,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 3.7151,
+      "popularity": 4.2124,
       "release_date": "2026-04-01",
       "vote_average": 5.594,
       "vote_count": 85,
@@ -7086,7 +7086,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 0.5265,
+      "popularity": 0.4635,
       "release_date": "1980-10-29",
       "vote_average": 5.9,
       "vote_count": 44,
@@ -8042,9 +8042,9 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 3.0061,
+      "popularity": 2.8798,
       "release_date": "1991-06-21",
-      "vote_average": 6.47,
+      "vote_average": 6.5,
       "vote_count": 1036,
       "poster_path": "/kAn7lyw2FzlSw4PeokZAwmPLyYB.jpg",
       "runtime": 108
@@ -8138,7 +8138,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.0327,
+      "popularity": 0.0239,
       "release_date": "2025-01-20",
       "vote_average": 0,
       "vote_count": 0,
@@ -9873,7 +9873,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.7634,
+      "popularity": 0.7864,
       "release_date": "1990-09-19",
       "vote_average": 7.255,
       "vote_count": 161,
@@ -10349,7 +10349,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.2964,
+      "popularity": 1.4662,
       "release_date": "2014-01-10",
       "vote_average": 5.855,
       "vote_count": 410,
@@ -10605,7 +10605,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 1.7463,
+      "popularity": 1.7172,
       "release_date": "2006-01-27",
       "vote_average": 6.874,
       "vote_count": 569,
@@ -10693,7 +10693,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.344,
+      "popularity": 0.442,
       "release_date": "1977-10-28",
       "vote_average": 5.3,
       "vote_count": 44,
@@ -11305,7 +11305,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.539,
+      "popularity": 0.5803,
       "release_date": "1998-12-18",
       "vote_average": 4.536,
       "vote_count": 83,
@@ -11429,7 +11429,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.2765,
+      "popularity": 0.2522,
       "release_date": "2018-01-01",
       "vote_average": 5,
       "vote_count": 23,
@@ -11689,7 +11689,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.1215,
+      "popularity": 0.1066,
       "release_date": "2022-09-15",
       "vote_average": 5.7,
       "vote_count": 3,
@@ -12629,7 +12629,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 1.5002,
+      "popularity": 1.7534,
       "release_date": "2013-10-17",
       "vote_average": 5.678,
       "vote_count": 622,
@@ -13752,7 +13752,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.6099,
+      "popularity": 0.5882,
       "release_date": "2026-02-13",
       "vote_average": 4.778,
       "vote_count": 9,
@@ -13768,7 +13768,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 0.4492,
+      "popularity": 0.4335,
       "release_date": "1997-12-10",
       "vote_average": 6.281,
       "vote_count": 64,
@@ -13840,7 +13840,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.527,
+      "popularity": 1.3146,
       "release_date": "1998-11-25",
       "vote_average": 5.875,
       "vote_count": 32,
@@ -14155,7 +14155,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.9793,
+      "popularity": 2.0993,
       "release_date": "1999-11-12",
       "vote_average": 6.692,
       "vote_count": 331,
@@ -14195,7 +14195,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 0.3682,
+      "popularity": 0.3511,
       "release_date": "2014-03-04",
       "vote_average": 7.3,
       "vote_count": 42,
@@ -14327,7 +14327,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.5796,
+      "popularity": 1.4648,
       "release_date": "2000-04-07",
       "vote_average": 6.66,
       "vote_count": 468,
@@ -15970,9 +15970,9 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 6.5766,
+      "popularity": 7.3148,
       "release_date": "1952-10-09",
-      "vote_average": 8.303,
+      "vote_average": 8.3,
       "vote_count": 1338,
       "poster_path": "/fzTD2YzbCz3iwQTvOyV8eKKPx2u.jpg",
       "runtime": 143
@@ -16342,7 +16342,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.564,
+      "popularity": 0.6501,
       "release_date": "2014-10-19",
       "vote_average": 6.1,
       "vote_count": 41,
@@ -16866,10 +16866,10 @@
           "name": "Storia"
         }
       ],
-      "popularity": 0.7691,
+      "popularity": 1.2455,
       "release_date": "2026-01-30",
-      "vote_average": 7.308,
-      "vote_count": 13,
+      "vote_average": 7.5,
+      "vote_count": 14,
       "poster_path": "/zmMlJPZremA7iSqzg3SgZTXR28Z.jpg",
       "runtime": 108
     },
@@ -17182,7 +17182,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 1.2373,
+      "popularity": 1.1649,
       "release_date": "1977-06-24",
       "vote_average": 5.9,
       "vote_count": 348,
@@ -18073,7 +18073,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 2.6581,
+      "popularity": 3.0746,
       "release_date": "2005-06-13",
       "vote_average": 6.091,
       "vote_count": 1232,
@@ -19645,7 +19645,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 2.0445,
+      "popularity": 1.8825,
       "release_date": "2008-07-25",
       "vote_average": 6.479,
       "vote_count": 829,
@@ -19729,7 +19729,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 4.5168,
+      "popularity": 4.9335,
       "release_date": "2000-05-19",
       "vote_average": 6.556,
       "vote_count": 2724,
@@ -19757,7 +19757,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 7.1869,
+      "popularity": 7.5066,
       "release_date": "1963-03-01",
       "vote_average": 8.36,
       "vote_count": 1117,
@@ -20297,7 +20297,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.1923,
+      "popularity": 0.9588,
       "release_date": "1978-11-28",
       "vote_average": 5.733,
       "vote_count": 58,
@@ -21089,7 +21089,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 3.8283,
+      "popularity": 4.7948,
       "release_date": "1996-03-01",
       "vote_average": 6.387,
       "vote_count": 524,
@@ -21117,7 +21117,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 3.4196,
+      "popularity": 3.6019,
       "release_date": "1940-03-23",
       "vote_average": 7.893,
       "vote_count": 1967,
@@ -21165,7 +21165,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.1585,
+      "popularity": 1.0746,
       "release_date": "1978-10-20",
       "vote_average": 6.815,
       "vote_count": 440,
@@ -21433,7 +21433,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.5465,
+      "popularity": 1.4247,
       "release_date": "2007-07-27",
       "vote_average": 6.419,
       "vote_count": 565,
@@ -21501,7 +21501,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.3895,
+      "popularity": 0.3175,
       "release_date": "2018-09-27",
       "vote_average": 5.6,
       "vote_count": 75,
@@ -21893,7 +21893,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 3.8366,
+      "popularity": 3.896,
       "release_date": "2000-09-09",
       "vote_average": 7.831,
       "vote_count": 826,
@@ -22097,7 +22097,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.7475,
+      "popularity": 3.0056,
       "release_date": "1963-03-27",
       "vote_average": 7.7,
       "vote_count": 945,
@@ -22233,7 +22233,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 5.7507,
+      "popularity": 4.6002,
       "release_date": "2006-07-27",
       "vote_average": 6.975,
       "vote_count": 3103,
@@ -22345,7 +22345,7 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 2.9715,
+      "popularity": 3.2605,
       "release_date": "2004-12-22",
       "vote_average": 7.719,
       "vote_count": 3152,
@@ -22409,7 +22409,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 1.2182,
+      "popularity": 1.2165,
       "release_date": "2005-10-14",
       "vote_average": 6.531,
       "vote_count": 621,
@@ -23329,7 +23329,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 2.9899,
+      "popularity": 2.6463,
       "release_date": "2004-11-09",
       "vote_average": 6.812,
       "vote_count": 1977,
@@ -23373,7 +23373,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.3244,
+      "popularity": 1.4429,
       "release_date": "2025-12-04",
       "vote_average": 6.262,
       "vote_count": 61,
@@ -23561,7 +23561,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.7862,
+      "popularity": 4.1952,
       "release_date": "2009-05-20",
       "vote_average": 6.626,
       "vote_count": 2828,
@@ -24121,7 +24121,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.3726,
+      "popularity": 0.2539,
       "release_date": "1993-01-22",
       "vote_average": 5.854,
       "vote_count": 24,
@@ -24365,7 +24365,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 3.1708,
+      "popularity": 2.8848,
       "release_date": "2022-09-08",
       "vote_average": 6.707,
       "vote_count": 599,
@@ -24505,7 +24505,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 3.0801,
+      "popularity": 3.1969,
       "release_date": "1988-10-27",
       "vote_average": 7.422,
       "vote_count": 811,
@@ -24753,7 +24753,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.357,
+      "popularity": 1.163,
       "release_date": "2025-09-12",
       "vote_average": 7.371,
       "vote_count": 62,
@@ -25509,7 +25509,7 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 5.3242,
+      "popularity": 5.6805,
       "release_date": "1962-12-11",
       "vote_average": 7.998,
       "vote_count": 3403,
@@ -25597,7 +25597,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.2754,
+      "popularity": 3.5879,
       "release_date": "2010-01-28",
       "vote_average": 6.414,
       "vote_count": 1715,
@@ -25633,7 +25633,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.2942,
+      "popularity": 1.5364,
       "release_date": "2010-01-28",
       "vote_average": 6,
       "vote_count": 304,
@@ -25677,7 +25677,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.2617,
+      "popularity": 1.2924,
       "release_date": "2010-02-19",
       "vote_average": 5.836,
       "vote_count": 622,
@@ -25929,7 +25929,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 2.512,
+      "popularity": 2.3034,
       "release_date": "1954-10-06",
       "vote_average": 6.532,
       "vote_count": 217,
@@ -26997,7 +26997,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 3.4704,
+      "popularity": 3.1573,
       "release_date": "1993-07-23",
       "vote_average": 6.8,
       "vote_count": 276,
@@ -27457,7 +27457,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.3084,
+      "popularity": 0.3053,
       "release_date": "2025-07-18",
       "vote_average": 5.944,
       "vote_count": 26,
@@ -27693,7 +27693,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 4.1857,
+      "popularity": 3.9241,
       "release_date": "2011-09-30",
       "vote_average": 6.9,
       "vote_count": 240,
@@ -28045,7 +28045,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 47.6071,
+      "popularity": 42.7278,
       "release_date": "2023-03-15",
       "vote_average": 5.8,
       "vote_count": 353,
@@ -29477,7 +29477,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.2906,
+      "popularity": 1.5232,
       "release_date": "2008-11-19",
       "vote_average": 7.275,
       "vote_count": 942,
@@ -29929,7 +29929,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 4.4227,
+      "popularity": 4.7785,
       "release_date": "2012-08-03",
       "vote_average": 7.034,
       "vote_count": 2761,
@@ -30748,7 +30748,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 1.5473,
+      "popularity": 1.5617,
       "release_date": "2013-08-02",
       "vote_average": 6.306,
       "vote_count": 85,
@@ -30812,7 +30812,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 2.0636,
+      "popularity": 1.9435,
       "release_date": "2013-09-07",
       "vote_average": 6.736,
       "vote_count": 2070,
@@ -30948,7 +30948,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.4857,
+      "popularity": 0.3382,
       "release_date": "1985-10-25",
       "vote_average": 5.796,
       "vote_count": 285,
@@ -31352,7 +31352,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 3.3813,
+      "popularity": 3.3018,
       "release_date": "1979-12-07",
       "vote_average": 7.6,
       "vote_count": 2448,
@@ -31416,7 +31416,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.0504,
+      "popularity": 2.8791,
       "release_date": "2000-02-18",
       "vote_average": 6.717,
       "vote_count": 735,
@@ -31472,7 +31472,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.5665,
+      "popularity": 1.4668,
       "release_date": "2014-02-14",
       "vote_average": 5.978,
       "vote_count": 530,
@@ -32136,7 +32136,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.8872,
+      "popularity": 3.4318,
       "release_date": "2014-07-18",
       "vote_average": 7.565,
       "vote_count": 3449,
@@ -32236,7 +32236,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.5119,
+      "popularity": 0.5888,
       "release_date": "2014-08-29",
       "vote_average": 5.2,
       "vote_count": 49,
@@ -33000,7 +33000,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.1555,
+      "popularity": 0.1547,
       "release_date": "2014-10-16",
       "vote_average": 6,
       "vote_count": 151,
@@ -33464,7 +33464,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 0.9786,
+      "popularity": 0.9087,
       "release_date": "2014-10-24",
       "vote_average": 6.9,
       "vote_count": 492,
@@ -33788,7 +33788,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 2.0116,
+      "popularity": 2.5563,
       "release_date": "2015-01-15",
       "vote_average": 6.018,
       "vote_count": 1113,
@@ -34256,7 +34256,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.8812,
+      "popularity": 0.8365,
       "release_date": "2025-10-15",
       "vote_average": 6.1,
       "vote_count": 22,
@@ -34828,10 +34828,10 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 202.065,
+      "popularity": 229.8024,
       "release_date": "2015-01-24",
-      "vote_average": 6.091,
-      "vote_count": 717,
+      "vote_average": 6.085,
+      "vote_count": 718,
       "poster_path": "/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
       "runtime": 84
     },
@@ -35472,7 +35472,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 2.0447,
+      "popularity": 2.0576,
       "release_date": "2015-09-17",
       "vote_average": 5.929,
       "vote_count": 666,
@@ -37404,7 +37404,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.9502,
+      "popularity": 2.1727,
       "release_date": "2016-08-11",
       "vote_average": 6.167,
       "vote_count": 1657,
@@ -37428,7 +37428,7 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 1.8723,
+      "popularity": 2.1258,
       "release_date": "2016-08-12",
       "vote_average": 7.145,
       "vote_count": 1142,
@@ -38104,7 +38104,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.4494,
+      "popularity": 1.4223,
       "release_date": "2016-10-09",
       "vote_average": 6.073,
       "vote_count": 317,
@@ -38276,7 +38276,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.533,
+      "popularity": 0.5357,
       "release_date": "2016-11-10",
       "vote_average": 6.541,
       "vote_count": 222,
@@ -38492,7 +38492,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.8292,
+      "popularity": 1.8388,
       "release_date": "1996-12-13",
       "vote_average": 5.798,
       "vote_count": 252,
@@ -38640,7 +38640,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.2927,
+      "popularity": 0.2148,
       "release_date": "1988-01-28",
       "vote_average": 7.167,
       "vote_count": 60,
@@ -39036,7 +39036,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 21.5489,
+      "popularity": 20.2596,
       "release_date": "2025-10-21",
       "vote_average": 7.322,
       "vote_count": 726,
@@ -39568,7 +39568,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 3.7922,
+      "popularity": 3.7186,
       "release_date": "2016-11-30",
       "vote_average": 5.5,
       "vote_count": 186,
@@ -39604,7 +39604,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.5915,
+      "popularity": 1.7196,
       "release_date": "2016-12-09",
       "vote_average": 6.335,
       "vote_count": 215,
@@ -39704,7 +39704,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 4.9518,
+      "popularity": 5.0196,
       "release_date": "2016-12-21",
       "vote_average": 7.881,
       "vote_count": 1144,
@@ -40428,7 +40428,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 4.8581,
+      "popularity": 5.0012,
       "release_date": "2017-03-02",
       "vote_average": 7.494,
       "vote_count": 2240,
@@ -41820,7 +41820,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.1902,
+      "popularity": 2.0026,
       "release_date": "2017-08-04",
       "vote_average": 6.596,
       "vote_count": 109,
@@ -43248,7 +43248,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 1.6159,
+      "popularity": 1.6785,
       "release_date": "2025-11-13",
       "vote_average": 6.8,
       "vote_count": 20,
@@ -44000,7 +44000,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.0276,
+      "popularity": 1.175,
       "release_date": "2018-04-06",
       "vote_average": 7.511,
       "vote_count": 773,
@@ -44228,7 +44228,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 1.7334,
+      "popularity": 1.8617,
       "release_date": "2018-04-19",
       "vote_average": 7.4,
       "vote_count": 1401,
@@ -44244,7 +44244,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.4079,
+      "popularity": 1.4432,
       "release_date": "2018-04-20",
       "vote_average": 5.532,
       "vote_count": 758,
@@ -44560,7 +44560,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.7538,
+      "popularity": 0.9388,
       "release_date": "2018-05-11",
       "vote_average": 5.4,
       "vote_count": 113,
@@ -44668,7 +44668,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.9718,
+      "popularity": 1.8519,
       "release_date": "2018-05-18",
       "vote_average": 6.975,
       "vote_count": 1452,
@@ -44768,7 +44768,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 1.261,
+      "popularity": 1.501,
       "release_date": "2018-05-28",
       "vote_average": 6.072,
       "vote_count": 104,
@@ -45516,7 +45516,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 4.2685,
+      "popularity": 4.057,
       "release_date": "2018-08-29",
       "vote_average": 5.5,
       "vote_count": 59,
@@ -46836,7 +46836,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.7828,
+      "popularity": 1.7669,
       "release_date": "2019-01-13",
       "vote_average": 7.025,
       "vote_count": 691,
@@ -47452,7 +47452,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.8491,
+      "popularity": 1.0243,
       "release_date": "2019-03-21",
       "vote_average": 6.72,
       "vote_count": 75,
@@ -47728,7 +47728,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.6305,
+      "popularity": 0.4058,
       "release_date": "2019-04-05",
       "vote_average": 7.6,
       "vote_count": 50,
@@ -48220,7 +48220,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 1.1713,
+      "popularity": 0.9071,
       "release_date": "2019-05-13",
       "vote_average": 6.2,
       "vote_count": 206,
@@ -48356,7 +48356,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.4344,
+      "popularity": 0.3913,
       "release_date": "2019-05-02",
       "vote_average": 5.418,
       "vote_count": 152,
@@ -49228,7 +49228,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 0.7399,
+      "popularity": 0.6124,
       "release_date": "2019-09-12",
       "vote_average": 6.1,
       "vote_count": 231,
@@ -49852,7 +49852,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 5.5618,
+      "popularity": 4.262,
       "release_date": "2019-10-18",
       "vote_average": 7.236,
       "vote_count": 89,
@@ -50280,7 +50280,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 2.9711,
+      "popularity": 3.03,
       "release_date": "2025-10-22",
       "vote_average": 6.701,
       "vote_count": 289,
@@ -51475,7 +51475,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.8845,
+      "popularity": 1.0242,
       "release_date": "2020-07-31",
       "vote_average": 6.742,
       "vote_count": 89,
@@ -53391,7 +53391,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.6466,
+      "popularity": 0.7349,
       "release_date": "2021-03-17",
       "vote_average": 6.823,
       "vote_count": 144,
@@ -53479,7 +53479,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.3211,
+      "popularity": 0.2783,
       "release_date": "2021-04-01",
       "vote_average": 8.2,
       "vote_count": 3,
@@ -54215,7 +54215,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 0.9072,
+      "popularity": 0.8408,
       "release_date": "2025-10-16",
       "vote_average": 7.536,
       "vote_count": 14,
@@ -54879,7 +54879,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.6468,
+      "popularity": 1.3193,
       "release_date": "2008-10-02",
       "vote_average": 3.711,
       "vote_count": 326,
@@ -54903,7 +54903,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 0.218,
+      "popularity": 0.1888,
       "release_date": "2021-09-20",
       "vote_average": 5,
       "vote_count": 3,
@@ -55567,7 +55567,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.3628,
+      "popularity": 0.467,
       "release_date": "2021-11-09",
       "vote_average": 7.1,
       "vote_count": 32,
@@ -55955,7 +55955,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.0116,
+      "popularity": 0.9594,
       "release_date": "2021-12-10",
       "vote_average": 7.532,
       "vote_count": 376,
@@ -55999,7 +55999,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 0.3788,
+      "popularity": 0.2863,
       "release_date": "2021-12-15",
       "vote_average": 6.3,
       "vote_count": 19,
@@ -56518,7 +56518,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.3412,
+      "popularity": 0.2592,
       "release_date": "2021-11-19",
       "vote_average": 5.6,
       "vote_count": 68,
@@ -58546,7 +58546,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.0496,
+      "popularity": 1.0143,
       "release_date": "2022-09-08",
       "vote_average": 6.317,
       "vote_count": 199,
@@ -59457,7 +59457,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 9.6446,
+      "popularity": 9.9483,
       "release_date": "2022-11-04",
       "vote_average": 8.497,
       "vote_count": 590,
@@ -59749,7 +59749,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 0.9126,
+      "popularity": 0.8232,
       "release_date": "2022-11-23",
       "vote_average": 5.8,
       "vote_count": 9,
@@ -60456,7 +60456,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.1629,
+      "popularity": 1.097,
       "release_date": "2023-01-20",
       "vote_average": 5.833,
       "vote_count": 129,
@@ -61128,7 +61128,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.634,
+      "popularity": 0.6259,
       "release_date": "2023-04-07",
       "vote_average": 5,
       "vote_count": 37,
@@ -61176,10 +61176,10 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.7913,
+      "popularity": 0.581,
       "release_date": "2023-04-14",
-      "vote_average": 7.029,
-      "vote_count": 139,
+      "vote_average": 7.043,
+      "vote_count": 141,
       "poster_path": "/3raY76KtEzSHya5rcC2j37qGI9L.jpg",
       "runtime": 96
     },
@@ -61552,7 +61552,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 2.5756,
+      "popularity": 2.4702,
       "release_date": "2003-12-05",
       "vote_average": 7.35,
       "vote_count": 785,
@@ -62616,10 +62616,10 @@
           "name": "Crime"
         }
       ],
-      "popularity": 2.072,
+      "popularity": 2.1965,
       "release_date": "2023-09-13",
-      "vote_average": 6.331,
-      "vote_count": 145,
+      "vote_average": 6.342,
+      "vote_count": 146,
       "poster_path": "/9uGS0RVxxkVyckm1vVerlJdMvST.jpg",
       "runtime": 105
     },
@@ -62980,7 +62980,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.5891,
+      "popularity": 0.5406,
       "release_date": "2023-10-20",
       "vote_average": 6.6,
       "vote_count": 35,
@@ -63308,7 +63308,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.9285,
+      "popularity": 2.0542,
       "release_date": "2023-11-16",
       "vote_average": 5.705,
       "vote_count": 44,
@@ -63946,7 +63946,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.2074,
+      "popularity": 0.165,
       "release_date": "2023-12-21",
       "vote_average": 7.9,
       "vote_count": 12,
@@ -64517,7 +64517,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.8755,
+      "popularity": 0.94,
       "release_date": "2024-03-08",
       "vote_average": 6.761,
       "vote_count": 44,
@@ -64865,7 +64865,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.5748,
+      "popularity": 0.7631,
       "release_date": "2024-04-13",
       "vote_average": 7.1,
       "vote_count": 27,
@@ -65045,7 +65045,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 0.7075,
+      "popularity": 0.7582,
       "release_date": "2024-05-02",
       "vote_average": 6.578,
       "vote_count": 51,
@@ -65577,7 +65577,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 2.7547,
+      "popularity": 2.9409,
       "release_date": "1996-09-20",
       "vote_average": 6.7,
       "vote_count": 818,
@@ -66221,7 +66221,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.635,
+      "popularity": 0.6306,
       "release_date": "2024-09-08",
       "vote_average": 7.37,
       "vote_count": 23,
@@ -67977,7 +67977,7 @@
           "name": "Western"
         }
       ],
-      "popularity": 6.8295,
+      "popularity": 6.9694,
       "release_date": "2025-02-27",
       "vote_average": 6.351,
       "vote_count": 795,
@@ -67993,7 +67993,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 4.6253,
+      "popularity": 4.4287,
       "release_date": "2025-02-27",
       "vote_average": 7.743,
       "vote_count": 220,
@@ -68905,7 +68905,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 0.4588,
+      "popularity": 0.534,
       "release_date": "2025-05-13",
       "vote_average": 7,
       "vote_count": 1,
@@ -69013,7 +69013,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 1.0323,
+      "popularity": 0.9264,
       "release_date": "2025-05-29",
       "vote_average": 7.4,
       "vote_count": 11,
@@ -69740,7 +69740,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.3193,
+      "popularity": 0.3066,
       "release_date": "2025-07-21",
       "vote_average": 5.4,
       "vote_count": 24,
@@ -69944,7 +69944,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 1.9192,
+      "popularity": 1.8051,
       "release_date": "2025-05-22",
       "vote_average": 5.252,
       "vote_count": 234,
@@ -70796,7 +70796,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.7696,
+      "popularity": 1.7761,
       "release_date": "1986-02-14",
       "vote_average": 6.3,
       "vote_count": 214,
@@ -71552,7 +71552,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.4943,
+      "popularity": 1.5027,
       "release_date": "2021-12-21",
       "vote_average": 6.284,
       "vote_count": 422,
@@ -71568,10 +71568,10 @@
           "name": "Horror"
         }
       ],
-      "popularity": 12.373,
+      "popularity": 13.3566,
       "release_date": "2013-04-05",
-      "vote_average": 6.591,
-      "vote_count": 4998,
+      "vote_average": 6.592,
+      "vote_count": 4999,
       "poster_path": "/1Vyw9Ak6lxCVmaBMuUzCv8jloV2.jpg",
       "runtime": 90
     },
@@ -72740,7 +72740,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.4729,
+      "popularity": 1.4006,
       "release_date": "2005-09-16",
       "vote_average": 5.799,
       "vote_count": 585,
@@ -72840,10 +72840,10 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 180.0314,
+      "popularity": 162.5228,
       "release_date": "2025-12-17",
-      "vote_average": 7.41,
-      "vote_count": 2927,
+      "vote_average": 7.417,
+      "vote_count": 2938,
       "poster_path": "/pAXf6FyDUzZhAjkEhc02fMXWVvz.jpg",
       "runtime": 197
     },
@@ -72928,7 +72928,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.2165,
+      "popularity": 2.2218,
       "release_date": "2004-01-30",
       "vote_average": 6.341,
       "vote_count": 468,
@@ -73380,10 +73380,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 4.9145,
+      "popularity": 4.5458,
       "release_date": "2025-05-02",
-      "vote_average": 6.1,
-      "vote_count": 533,
+      "vote_average": 6.125,
+      "vote_count": 534,
       "poster_path": "/1jDjHEY63K89KkLtYhG4TpD0rYL.jpg",
       "runtime": 96
     },
@@ -73548,7 +73548,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.8855,
+      "popularity": 1.6798,
       "release_date": "2018-08-24",
       "vote_average": 6.609,
       "vote_count": 705,
@@ -74548,7 +74548,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 1.9379,
+      "popularity": 2.0212,
       "release_date": "1995-12-29",
       "vote_average": 6.975,
       "vote_count": 452,
@@ -74960,7 +74960,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 9.8717,
+      "popularity": 10.1681,
       "release_date": "2024-08-15",
       "vote_average": 6.617,
       "vote_count": 990,
@@ -75428,7 +75428,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 6.6599,
+      "popularity": 6.9253,
       "release_date": "2025-05-01",
       "vote_average": 6.334,
       "vote_count": 292,
@@ -75768,7 +75768,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 6.4,
+      "popularity": 6.3397,
       "release_date": "1993-09-09",
       "vote_average": 7.537,
       "vote_count": 3045,
@@ -76260,7 +76260,7 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 6.9928,
+      "popularity": 6.5021,
       "release_date": "1985-10-17",
       "vote_average": 8.212,
       "vote_count": 1827,
@@ -76652,7 +76652,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 1.6564,
+      "popularity": 1.5322,
       "release_date": "1964-07-07",
       "vote_average": 7.324,
       "vote_count": 732,
@@ -76924,10 +76924,10 @@
           "name": "Animazione"
         }
       ],
-      "popularity": 18.7167,
+      "popularity": 19.3241,
       "release_date": "2025-07-24",
-      "vote_average": 7.647,
-      "vote_count": 764,
+      "vote_average": 7.651,
+      "vote_count": 766,
       "poster_path": "/gYuaju3hqkcxRjlCPgXlW2zthXT.jpg",
       "runtime": 104
     },
@@ -77732,7 +77732,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.8108,
+      "popularity": 0.809,
       "release_date": "2020-08-20",
       "vote_average": 6.7,
       "vote_count": 141,
@@ -77828,7 +77828,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.0422,
+      "popularity": 1.0851,
       "release_date": "2022-05-06",
       "vote_average": 4.926,
       "vote_count": 136,
@@ -77916,7 +77916,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.9271,
+      "popularity": 0.9387,
       "release_date": "1987-12-23",
       "vote_average": 5.484,
       "vote_count": 62,
@@ -78120,7 +78120,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 7.2902,
+      "popularity": 7.9313,
       "release_date": "1990-11-30",
       "vote_average": 7.747,
       "vote_count": 5205,
@@ -78692,7 +78692,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.538,
+      "popularity": 0.6291,
       "release_date": "2022-05-27",
       "vote_average": 4,
       "vote_count": 30,
@@ -78836,7 +78836,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 4.1912,
+      "popularity": 4.0696,
       "release_date": "1997-05-02",
       "vote_average": 6.911,
       "vote_count": 1088,
@@ -79376,7 +79376,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 1.3958,
+      "popularity": 1.1169,
       "release_date": "1996-01-22",
       "vote_average": 5.766,
       "vote_count": 62,
@@ -80228,7 +80228,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.1165,
+      "popularity": 1.4884,
       "release_date": "2025-06-06",
       "vote_average": 7.098,
       "vote_count": 169,
@@ -80276,7 +80276,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.4557,
+      "popularity": 0.367,
       "release_date": "2025-01-30",
       "vote_average": 6.7,
       "vote_count": 22,
@@ -81072,7 +81072,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.2422,
+      "popularity": 1.0206,
       "release_date": "2022-10-21",
       "vote_average": 5.788,
       "vote_count": 144,
@@ -81436,7 +81436,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.6361,
+      "popularity": 0.909,
       "release_date": "2025-05-30",
       "vote_average": 6.642,
       "vote_count": 60,
@@ -81784,7 +81784,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 2.3603,
+      "popularity": 1.9819,
       "release_date": "2025-05-23",
       "vote_average": 5.4,
       "vote_count": 551,
@@ -81808,7 +81808,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.7993,
+      "popularity": 1.5741,
       "release_date": "2012-10-17",
       "vote_average": 5.111,
       "vote_count": 1400,
@@ -82028,7 +82028,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.8404,
+      "popularity": 0.7963,
       "release_date": "2018-05-10",
       "vote_average": 7.155,
       "vote_count": 391,
@@ -82228,10 +82228,10 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 19.5223,
+      "popularity": 18.8671,
       "release_date": "2025-05-14",
       "vote_average": 7.043,
-      "vote_count": 2810,
+      "vote_count": 2811,
       "poster_path": "/b2miftxDl5yQA8gKcZ3pX8j5R1C.jpg",
       "runtime": 110
     },
@@ -82608,7 +82608,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 0.476,
+      "popularity": 0.6031,
       "release_date": "2025-02-28",
       "vote_average": 6.8,
       "vote_count": 24,
@@ -82628,7 +82628,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.4391,
+      "popularity": 2.3759,
       "release_date": "2024-12-27",
       "vote_average": 7.235,
       "vote_count": 238,
@@ -82736,7 +82736,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 3.047,
+      "popularity": 3.6178,
       "release_date": "2004-07-02",
       "vote_average": 6.6,
       "vote_count": 2257,
@@ -82752,7 +82752,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.3368,
+      "popularity": 0.4618,
       "release_date": "2025-05-12",
       "vote_average": 6.2,
       "vote_count": 30,
@@ -82980,7 +82980,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 3.0583,
+      "popularity": 3.3432,
       "release_date": "2025-01-24",
       "vote_average": 5.697,
       "vote_count": 292,
@@ -83268,7 +83268,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 0.5135,
+      "popularity": 0.8162,
       "release_date": "2025-08-14",
       "vote_average": 2.6,
       "vote_count": 4,
@@ -83304,7 +83304,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.7215,
+      "popularity": 1.624,
       "release_date": "2017-12-14",
       "vote_average": 7.066,
       "vote_count": 211,
@@ -83408,7 +83408,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.479,
+      "popularity": 0.3825,
       "release_date": "2025-05-05",
       "vote_average": 7.2,
       "vote_count": 23,
@@ -85140,10 +85140,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 6.4918,
+      "popularity": 6.4994,
       "release_date": "2001-08-02",
       "vote_average": 7.617,
-      "vote_count": 7133,
+      "vote_count": 7134,
       "poster_path": "/qG80oTSpuh4kDcZqkMM0T2bB7z4.jpg",
       "runtime": 101
     },
@@ -85184,7 +85184,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 11.2841,
+      "popularity": 10.6043,
       "release_date": "2025-04-09",
       "vote_average": 7.072,
       "vote_count": 1425,
@@ -85240,7 +85240,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.5842,
+      "popularity": 2.5685,
       "release_date": "2005-10-14",
       "vote_average": 5.914,
       "vote_count": 1283,
@@ -85324,7 +85324,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.8148,
+      "popularity": 1.7367,
       "release_date": "1995-06-27",
       "vote_average": 5.824,
       "vote_count": 352,
@@ -85696,7 +85696,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 1.8771,
+      "popularity": 1.8576,
       "release_date": "2011-02-01",
       "vote_average": 5.9,
       "vote_count": 409,
@@ -85820,10 +85820,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 17.614,
+      "popularity": 14.7455,
       "release_date": "2025-04-10",
-      "vote_average": 6.325,
-      "vote_count": 835,
+      "vote_average": 6.324,
+      "vote_count": 836,
       "poster_path": "/sYo8mowvoL1Hi1vsS8dSEpqArJM.jpg",
       "runtime": 91
     },
@@ -85996,7 +85996,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 0.4048,
+      "popularity": 0.3687,
       "release_date": "2025-04-17",
       "vote_average": 6.814,
       "vote_count": 51,
@@ -86687,7 +86687,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 3.2797,
+      "popularity": 3.2469,
       "release_date": "1996-10-11",
       "vote_average": 6.823,
       "vote_count": 1137,
@@ -86991,7 +86991,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 4.2758,
+      "popularity": 4.2319,
       "release_date": "2025-04-10",
       "vote_average": 6.368,
       "vote_count": 666,
@@ -87203,10 +87203,10 @@
           "name": "Romance"
         }
       ],
-      "popularity": 6.6338,
+      "popularity": 7.1652,
       "release_date": "1995-06-02",
       "vote_average": 7.705,
-      "vote_count": 2360,
+      "vote_count": 2361,
       "poster_path": "/m6DhRPNUCrUkDYQwU0AroM6bQ3m.jpg",
       "runtime": 135
     },
@@ -87363,7 +87363,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 2.9968,
+      "popularity": 3.1512,
       "release_date": "2015-12-11",
       "vote_average": 5.229,
       "vote_count": 1518,
@@ -87383,9 +87383,9 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.7586,
+      "popularity": 1.5694,
       "release_date": "2015-03-13",
-      "vote_average": 5.429,
+      "vote_average": 5.4,
       "vote_count": 495,
       "poster_path": "/a0S1ou77hJ8RAxGkpyZGbfUr2SG.jpg",
       "runtime": 98
@@ -87679,7 +87679,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 3.2275,
+      "popularity": 3.6984,
       "release_date": "2009-08-14",
       "vote_average": 6.936,
       "vote_count": 2692,
@@ -87715,7 +87715,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.224,
+      "popularity": 0.2915,
       "release_date": "2014-09-05",
       "vote_average": 6.352,
       "vote_count": 135,
@@ -88603,10 +88603,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.0237,
+      "popularity": 2.7344,
       "release_date": "2012-07-30",
-      "vote_average": 6.026,
-      "vote_count": 2396,
+      "vote_average": 6.027,
+      "vote_count": 2397,
       "poster_path": "/e2POB4NI00KUSho1ST8ThTRWnKZ.jpg",
       "runtime": 97
     },
@@ -88771,7 +88771,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.2115,
+      "popularity": 3.0312,
       "release_date": "2024-08-24",
       "vote_average": 6.934,
       "vote_count": 435,
@@ -89051,7 +89051,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 4.1409,
+      "popularity": 3.8677,
       "release_date": "1993-09-17",
       "vote_average": 7.336,
       "vote_count": 750,
@@ -89119,7 +89119,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.9123,
+      "popularity": 1.8033,
       "release_date": "2010-03-31",
       "vote_average": 7.2,
       "vote_count": 3383,
@@ -89383,10 +89383,10 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 7.9813,
+      "popularity": 8.4696,
       "release_date": "1990-06-01",
-      "vote_average": 7.319,
-      "vote_count": 6432,
+      "vote_average": 7.32,
+      "vote_count": 6433,
       "poster_path": "/4jofwwjYk7y5ACheSnWSzsAy5p0.jpg",
       "runtime": 109
     },
@@ -89819,7 +89819,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 3.4457,
+      "popularity": 3.2442,
       "release_date": "2025-03-09",
       "vote_average": 5.383,
       "vote_count": 502,
@@ -89935,7 +89935,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.9343,
+      "popularity": 1.9339,
       "release_date": "2023-12-22",
       "vote_average": 6.603,
       "vote_count": 174,
@@ -90179,7 +90179,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.5741,
+      "popularity": 0.6573,
       "release_date": "2001-03-16",
       "vote_average": 7.276,
       "vote_count": 593,
@@ -90375,7 +90375,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.2823,
+      "popularity": 0.9917,
       "release_date": "2024-12-06",
       "vote_average": 5.221,
       "vote_count": 163,
@@ -90639,7 +90639,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 2.5581,
+      "popularity": 2.6723,
       "release_date": "2025-03-20",
       "vote_average": 6.365,
       "vote_count": 200,
@@ -90683,7 +90683,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 0.7929,
+      "popularity": 0.587,
       "release_date": "2024-07-29",
       "vote_average": 4.434,
       "vote_count": 38,
@@ -91123,7 +91123,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.6641,
+      "popularity": 3.6248,
       "release_date": "2017-12-18",
       "vote_average": 5.96,
       "vote_count": 563,
@@ -91675,7 +91675,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 4.7212,
+      "popularity": 5.1886,
       "release_date": "2012-11-08",
       "vote_average": 6.662,
       "vote_count": 195,
@@ -92555,7 +92555,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.6426,
+      "popularity": 2.7055,
       "release_date": "2023-12-20",
       "vote_average": 6.378,
       "vote_count": 160,
@@ -92759,7 +92759,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.6295,
+      "popularity": 0.5598,
       "release_date": "2022-04-01",
       "vote_average": 5.5,
       "vote_count": 69,
@@ -92963,7 +92963,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 0.0722,
+      "popularity": 0.1053,
       "release_date": "2025-02-10",
       "vote_average": 7,
       "vote_count": 3,
@@ -93271,7 +93271,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 2.7533,
+      "popularity": 2.3868,
       "release_date": "2010-10-21",
       "vote_average": 5.678,
       "vote_count": 669,
@@ -93587,7 +93587,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 1.1965,
+      "popularity": 0.9931,
       "release_date": "1969-08-18",
       "vote_average": 7.124,
       "vote_count": 788,
@@ -93607,10 +93607,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 5.5615,
+      "popularity": 5.3602,
       "release_date": "2009-05-27",
       "vote_average": 6.476,
-      "vote_count": 4065,
+      "vote_count": 4066,
       "poster_path": "/a9cbfIxGf4jKplckuVRRa0pTDdF.jpg",
       "runtime": 99
     },
@@ -93787,7 +93787,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 4.1726,
+      "popularity": 4.0289,
       "release_date": "2020-11-23",
       "vote_average": 7.484,
       "vote_count": 965,
@@ -94587,7 +94587,7 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 4.5321,
+      "popularity": 5.2929,
       "release_date": "2011-12-15",
       "vote_average": 7.424,
       "vote_count": 899,
@@ -94611,7 +94611,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 3.0082,
+      "popularity": 3.2504,
       "release_date": "2014-07-01",
       "vote_average": 6.252,
       "vote_count": 2223,
@@ -94747,7 +94747,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 1.3608,
+      "popularity": 1.2974,
       "release_date": "2024-11-27",
       "vote_average": 7.272,
       "vote_count": 482,
@@ -95119,7 +95119,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 2.6933,
+      "popularity": 2.4781,
       "release_date": "2002-04-26",
       "vote_average": 6.696,
       "vote_count": 2383,
@@ -95235,7 +95235,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.7324,
+      "popularity": 0.587,
       "release_date": "2010-02-24",
       "vote_average": 3.8,
       "vote_count": 90,
@@ -95503,7 +95503,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.4044,
+      "popularity": 0.2277,
       "release_date": "2024-11-21",
       "vote_average": 6.081,
       "vote_count": 111,
@@ -95787,7 +95787,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.7782,
+      "popularity": 0.65,
       "release_date": "2009-02-27",
       "vote_average": 3.5,
       "vote_count": 91,
@@ -95811,7 +95811,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 1.8889,
+      "popularity": 1.9336,
       "release_date": "2009-05-22",
       "vote_average": 4.985,
       "vote_count": 298,
@@ -95919,7 +95919,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 4.7929,
+      "popularity": 4.8673,
       "release_date": "1993-11-24",
       "vote_average": 7.493,
       "vote_count": 1837,
@@ -96367,7 +96367,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.2375,
+      "popularity": 0.1927,
       "release_date": "2024-11-14",
       "vote_average": 4.9,
       "vote_count": 19,
@@ -96923,7 +96923,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.7356,
+      "popularity": 0.6191,
       "release_date": "2019-02-08",
       "vote_average": 5.6,
       "vote_count": 31,
@@ -97079,7 +97079,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 3.0494,
+      "popularity": 2.9676,
       "release_date": "2016-09-22",
       "vote_average": 6.02,
       "vote_count": 1406,
@@ -97275,7 +97275,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 0.121,
+      "popularity": 0.148,
       "release_date": "2024-11-23",
       "vote_average": 4.5,
       "vote_count": 2,
@@ -97683,7 +97683,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 3.0191,
+      "popularity": 2.6333,
       "release_date": "1996-08-30",
       "vote_average": 7,
       "vote_count": 859,
@@ -97727,7 +97727,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 0.7322,
+      "popularity": 0.7187,
       "release_date": "2025-01-30",
       "vote_average": 5.316,
       "vote_count": 19,
@@ -98767,7 +98767,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 3.5419,
+      "popularity": 2.9275,
       "release_date": "1999-08-06",
       "vote_average": 6.7,
       "vote_count": 1345,
@@ -99239,7 +99239,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.9365,
+      "popularity": 0.9373,
       "release_date": "2000-10-17",
       "vote_average": 4.69,
       "vote_count": 329,
@@ -99651,7 +99651,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.8921,
+      "popularity": 3.2722,
       "release_date": "2016-12-12",
       "vote_average": 7.07,
       "vote_count": 2837,
@@ -99703,7 +99703,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 5.8238,
+      "popularity": 6.1363,
       "release_date": "2011-08-17",
       "vote_average": 7.489,
       "vote_count": 4602,
@@ -99875,7 +99875,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.4841,
+      "popularity": 2.6271,
       "release_date": "2024-09-20",
       "vote_average": 6.132,
       "vote_count": 429,
@@ -99919,7 +99919,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 1.589,
+      "popularity": 1.538,
       "release_date": "1991-09-06",
       "vote_average": 6.567,
       "vote_count": 335,
@@ -100011,7 +100011,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.0788,
+      "popularity": 3.7879,
       "release_date": "2024-12-05",
       "vote_average": 6.581,
       "vote_count": 875,
@@ -100479,10 +100479,10 @@
           "name": "Azione"
         }
       ],
-      "popularity": 2.5823,
+      "popularity": 2.7345,
       "release_date": "2007-01-11",
-      "vote_average": 5.651,
-      "vote_count": 774,
+      "vote_average": 5.653,
+      "vote_count": 775,
       "poster_path": "/A9bLm0DkWp8jppUeYiWYIdZ1KtZ.jpg",
       "runtime": 107
     },
@@ -100503,7 +100503,7 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 2.5875,
+      "popularity": 2.4209,
       "release_date": "2017-03-24",
       "vote_average": 7.325,
       "vote_count": 1568,
@@ -101383,7 +101383,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.0624,
+      "popularity": 0.0588,
       "release_date": "2013-12-19",
       "vote_average": 6.917,
       "vote_count": 562,
@@ -101735,7 +101735,7 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 4.7914,
+      "popularity": 4.7593,
       "release_date": "2008-12-25",
       "vote_average": 6.955,
       "vote_count": 4061,
@@ -102583,7 +102583,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 2.984,
+      "popularity": 3.0729,
       "release_date": "1995-11-17",
       "vote_average": 6.501,
       "vote_count": 965,
@@ -102647,7 +102647,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 3.0357,
+      "popularity": 3.1571,
       "release_date": "2001-11-09",
       "vote_average": 4.853,
       "vote_count": 1501,
@@ -103275,7 +103275,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 1.2493,
+      "popularity": 1.1987,
       "release_date": "2016-01-14",
       "vote_average": 4.7,
       "vote_count": 360,
@@ -103431,7 +103431,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 2.288,
+      "popularity": 2.3049,
       "release_date": "2019-02-21",
       "vote_average": 6.942,
       "vote_count": 643,
@@ -104315,10 +104315,10 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 4.6796,
+      "popularity": 4.9246,
       "release_date": "2013-01-31",
       "vote_average": 6.469,
-      "vote_count": 6361,
+      "vote_count": 6362,
       "poster_path": "/pBFfN6stRBkEjFZ6JOE91vwghA4.jpg",
       "runtime": 98
     },
@@ -104767,7 +104767,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 6.7353,
+      "popularity": 6.0383,
       "release_date": "2007-06-20",
       "vote_average": 6.641,
       "vote_count": 6317,
@@ -105043,7 +105043,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 0.4289,
+      "popularity": 0.3004,
       "release_date": "2024-12-19",
       "vote_average": 5.183,
       "vote_count": 93,
@@ -105787,7 +105787,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 4.3674,
+      "popularity": 4.1593,
       "release_date": "2008-03-04",
       "vote_average": 5.501,
       "vote_count": 3162,
@@ -105831,7 +105831,7 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 3.1421,
+      "popularity": 3.1719,
       "release_date": "1981-06-17",
       "vote_average": 6.886,
       "vote_count": 991,
@@ -106063,7 +106063,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 5.7707,
+      "popularity": 5.2286,
       "release_date": "1983-07-29",
       "vote_average": 7.1,
       "vote_count": 1721,
@@ -106195,7 +106195,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.5687,
+      "popularity": 3.6598,
       "release_date": "2009-08-13",
       "vote_average": 6.32,
       "vote_count": 2375,
@@ -106383,7 +106383,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.9001,
+      "popularity": 1.9331,
       "release_date": "1994-11-04",
       "vote_average": 6.446,
       "vote_count": 1360,
@@ -106559,7 +106559,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 2.0434,
+      "popularity": 1.7806,
       "release_date": "1949-10-05",
       "vote_average": 6.508,
       "vote_count": 683,
@@ -106846,7 +106846,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 3.05,
+      "popularity": 3.6834,
       "release_date": "2024-07-03",
       "vote_average": 7.094,
       "vote_count": 489,
@@ -106890,7 +106890,7 @@
           "name": "Animazione"
         }
       ],
-      "popularity": 13.7785,
+      "popularity": 12.9196,
       "release_date": "2024-12-18",
       "vote_average": 7.31,
       "vote_count": 2641,
@@ -108450,7 +108450,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.4918,
+      "popularity": 2.3094,
       "release_date": "2005-02-12",
       "vote_average": 7.229,
       "vote_count": 733,
@@ -110646,10 +110646,10 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 3.5341,
+      "popularity": 3.4584,
       "release_date": "2015-07-31",
       "vote_average": 6.7,
-      "vote_count": 3475,
+      "vote_count": 3476,
       "poster_path": "/nqT8auZh0j4SbovLdiXem81T9gK.jpg",
       "runtime": 108
     },
@@ -110826,7 +110826,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 0.2135,
+      "popularity": 0.292,
       "release_date": "2024-04-15",
       "vote_average": 6.7,
       "vote_count": 23,
@@ -111074,7 +111074,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.531,
+      "popularity": 2.4596,
       "release_date": "2001-03-01",
       "vote_average": 5.922,
       "vote_count": 798,
@@ -111170,10 +111170,10 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 24.2913,
+      "popularity": 25.1942,
       "release_date": "2025-05-17",
-      "vote_average": 7.16,
-      "vote_count": 2764,
+      "vote_average": 7.161,
+      "vote_count": 2767,
       "poster_path": "/bhBHcUBEGEuEu9iVEgDlSsQIn5l.jpg",
       "runtime": 170
     },
@@ -111226,7 +111226,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.8451,
+      "popularity": 1.6845,
       "release_date": "2006-10-06",
       "vote_average": 5.626,
       "vote_count": 699,
@@ -111502,7 +111502,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 4.5933,
+      "popularity": 4.613,
       "release_date": "2020-01-22",
       "vote_average": 6.381,
       "vote_count": 607,
@@ -111754,10 +111754,10 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.1619,
+      "popularity": 1.3073,
       "release_date": "2023-03-16",
-      "vote_average": 6.856,
-      "vote_count": 52,
+      "vote_average": 6.915,
+      "vote_count": 53,
       "poster_path": "/kdq4Xl7m33BTDY4IDaIgcEn8Jnq.jpg",
       "runtime": 104
     },
@@ -111902,7 +111902,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 1.5161,
+      "popularity": 1.4314,
       "release_date": "2024-08-08",
       "vote_average": 5.654,
       "vote_count": 65,
@@ -112130,7 +112130,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.2837,
+      "popularity": 0.2519,
       "release_date": "2011-10-27",
       "vote_average": 6.1,
       "vote_count": 453,
@@ -112334,7 +112334,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 0.8256,
+      "popularity": 0.8012,
       "release_date": "2024-10-31",
       "vote_average": 7.208,
       "vote_count": 171,
@@ -112618,7 +112618,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 3.0699,
+      "popularity": 3.5126,
       "release_date": "2016-08-11",
       "vote_average": 7.3,
       "vote_count": 4841,
@@ -112750,7 +112750,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 8.7056,
+      "popularity": 8.8207,
       "release_date": "2024-10-31",
       "vote_average": 6.987,
       "vote_count": 3024,
@@ -113210,7 +113210,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.5387,
+      "popularity": 1.5073,
       "release_date": "2009-10-22",
       "vote_average": 6.82,
       "vote_count": 362,
@@ -113370,7 +113370,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.3524,
+      "popularity": 0.2642,
       "release_date": "2024-07-25",
       "vote_average": 6.7,
       "vote_count": 25,
@@ -113778,7 +113778,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.2012,
+      "popularity": 0.1565,
       "release_date": "1996-12-13",
       "vote_average": 5.976,
       "vote_count": 191,
@@ -113974,7 +113974,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.9946,
+      "popularity": 0.8446,
       "release_date": "2024-11-05",
       "vote_average": 6.323,
       "vote_count": 262,
@@ -114262,7 +114262,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 3.8188,
+      "popularity": 4.2487,
       "release_date": "1998-07-11",
       "vote_average": 6.82,
       "vote_count": 5198,
@@ -114542,7 +114542,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 0.3072,
+      "popularity": 0.2298,
       "release_date": "1995-09-03",
       "vote_average": 6.425,
       "vote_count": 53,
@@ -114974,7 +114974,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.3839,
+      "popularity": 0.3639,
       "release_date": "2011-09-09",
       "vote_average": 2.9,
       "vote_count": 251,
@@ -115554,7 +115554,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.1061,
+      "popularity": 0.0901,
       "release_date": "2024-08-21",
       "vote_average": 5.2,
       "vote_count": 12,
@@ -115870,7 +115870,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 4.7603,
+      "popularity": 4.9438,
       "release_date": "2024-10-10",
       "vote_average": 6.227,
       "vote_count": 486,
@@ -115926,7 +115926,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 9.9792,
+      "popularity": 9.1025,
       "release_date": "2024-10-16",
       "vote_average": 6.584,
       "vote_count": 2128,
@@ -116110,7 +116110,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.4722,
+      "popularity": 1.4146,
       "release_date": "2013-10-29",
       "vote_average": 5.7,
       "vote_count": 655,
@@ -116566,7 +116566,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.0138,
+      "popularity": 0.952,
       "release_date": "2022-12-15",
       "vote_average": 6.5,
       "vote_count": 142,
@@ -116798,7 +116798,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 4.061,
+      "popularity": 5.0731,
       "release_date": "1980-12-12",
       "vote_average": 6.752,
       "vote_count": 2509,
@@ -117326,7 +117326,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 1.9042,
+      "popularity": 2.1095,
       "release_date": "2003-10-10",
       "vote_average": 5.955,
       "vote_count": 1656,
@@ -117370,7 +117370,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 2.1351,
+      "popularity": 2.1354,
       "release_date": "2011-12-08",
       "vote_average": 5.888,
       "vote_count": 2220,
@@ -117674,7 +117674,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 2.9217,
+      "popularity": 3.1045,
       "release_date": "1991-03-29",
       "vote_average": 6.871,
       "vote_count": 749,
@@ -117770,7 +117770,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.099,
+      "popularity": 1.1578,
       "release_date": "2002-10-02",
       "vote_average": 7.042,
       "vote_count": 4707,
@@ -117962,7 +117962,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.7262,
+      "popularity": 0.6823,
       "release_date": "2024-09-30",
       "vote_average": 6.053,
       "vote_count": 57,
@@ -118094,7 +118094,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.4205,
+      "popularity": 1.3745,
       "release_date": "1970-12-23",
       "vote_average": 7.45,
       "vote_count": 714,
@@ -118190,7 +118190,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 2.8348,
+      "popularity": 3.1018,
       "release_date": "1970-04-23",
       "vote_average": 6.149,
       "vote_count": 1463,
@@ -118278,10 +118278,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 8.5344,
+      "popularity": 8.8266,
       "release_date": "1996-04-03",
       "vote_average": 7.657,
-      "vote_count": 3894,
+      "vote_count": 3895,
       "poster_path": "/rUMCzqmCD37YlDvVK6T44DP0zXw.jpg",
       "runtime": 125
     },
@@ -118618,7 +118618,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.1161,
+      "popularity": 1.0438,
       "release_date": "1979-11-30",
       "vote_average": 6.764,
       "vote_count": 519,
@@ -119166,7 +119166,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 3.1314,
+      "popularity": 2.8972,
       "release_date": "2024-01-19",
       "vote_average": 6.474,
       "vote_count": 782,
@@ -119186,7 +119186,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 0.1539,
+      "popularity": 0.1096,
       "release_date": "2024-05-11",
       "vote_average": 6,
       "vote_count": 4,
@@ -120154,10 +120154,10 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 22.8628,
+      "popularity": 21.9462,
       "release_date": "2024-11-21",
-      "vote_average": 6.998,
-      "vote_count": 3046,
+      "vote_average": 6.997,
+      "vote_count": 3047,
       "poster_path": "/qdNQzzq4QnQDji90plwntjbuEGW.jpg",
       "runtime": 100
     },
@@ -120850,7 +120850,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.5019,
+      "popularity": 1.914,
       "release_date": "2024-01-19",
       "vote_average": 6.356,
       "vote_count": 184,
@@ -121374,7 +121374,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 2.1519,
+      "popularity": 1.9682,
       "release_date": "2010-02-04",
       "vote_average": 6.419,
       "vote_count": 1814,
@@ -123378,7 +123378,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.749,
+      "popularity": 1.701,
       "release_date": "2023-11-15",
       "vote_average": 5.764,
       "vote_count": 161,
@@ -123446,7 +123446,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 3.6369,
+      "popularity": 3.6911,
       "release_date": "2019-09-11",
       "vote_average": 6.987,
       "vote_count": 1634,
@@ -123874,7 +123874,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.1738,
+      "popularity": 2.5908,
       "release_date": "2024-01-09",
       "vote_average": 6.521,
       "vote_count": 288,
@@ -124242,7 +124242,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 3.8546,
+      "popularity": 3.2171,
       "release_date": "2016-06-08",
       "vote_average": 6.507,
       "vote_count": 3926,
@@ -124398,7 +124398,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 1.0559,
+      "popularity": 0.8927,
       "release_date": "2023-09-29",
       "vote_average": 6.048,
       "vote_count": 62,
@@ -124530,7 +124530,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 6.0094,
+      "popularity": 5.732,
       "release_date": "2013-05-05",
       "vote_average": 7.319,
       "vote_count": 9626,
@@ -124682,7 +124682,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.7073,
+      "popularity": 1.8714,
       "release_date": "2003-10-03",
       "vote_average": 6.361,
       "vote_count": 1295,
@@ -124738,7 +124738,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.2835,
+      "popularity": 0.2902,
       "release_date": "2023-09-14",
       "vote_average": 5.5,
       "vote_count": 32,
@@ -125002,10 +125002,10 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 7.5218,
+      "popularity": 7.2511,
       "release_date": "1998-12-16",
       "vote_average": 7.3,
-      "vote_count": 4285,
+      "vote_count": 4286,
       "poster_path": "/jGauSzKPSmXqD4d54daJlsjfwST.jpg",
       "runtime": 99
     },
@@ -125318,7 +125318,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 14.4224,
+      "popularity": 12.9228,
       "release_date": "2017-07-23",
       "vote_average": 5.391,
       "vote_count": 3309,
@@ -125382,7 +125382,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 3.2905,
+      "popularity": 3.6395,
       "release_date": "2016-12-16",
       "vote_average": 6.881,
       "vote_count": 2798,
@@ -125874,7 +125874,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.3509,
+      "popularity": 0.437,
       "release_date": "2022-07-14",
       "vote_average": 4.3,
       "vote_count": 15,
@@ -126650,7 +126650,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 5.0973,
+      "popularity": 4.9825,
       "release_date": "1992-10-08",
       "vote_average": 6.312,
       "vote_count": 1713,
@@ -127054,7 +127054,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 3.7222,
+      "popularity": 4.6154,
       "release_date": "2024-08-13",
       "vote_average": 6.362,
       "vote_count": 785,
@@ -127310,7 +127310,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 1.3524,
+      "popularity": 1.44,
       "release_date": "1984-12-14",
       "vote_average": 6.8,
       "vote_count": 326,
@@ -127342,7 +127342,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 3.1387,
+      "popularity": 3.8758,
       "release_date": "1991-03-22",
       "vote_average": 6.226,
       "vote_count": 1240,
@@ -127454,7 +127454,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.7363,
+      "popularity": 0.9695,
       "release_date": "2023-06-10",
       "vote_average": 7.132,
       "vote_count": 91,
@@ -127530,7 +127530,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.0976,
+      "popularity": 0.9377,
       "release_date": "2023-02-03",
       "vote_average": 5.2,
       "vote_count": 103,
@@ -127726,7 +127726,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 1.7781,
+      "popularity": 1.8599,
       "release_date": "2015-10-06",
       "vote_average": 5.555,
       "vote_count": 456,
@@ -127838,7 +127838,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.0969,
+      "popularity": 1.0337,
       "release_date": "2006-02-07",
       "vote_average": 6.472,
       "vote_count": 176,
@@ -128254,7 +128254,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 3.5176,
+      "popularity": 4.0048,
       "release_date": "2024-08-02",
       "vote_average": 6.149,
       "vote_count": 623,
@@ -129654,7 +129654,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.2325,
+      "popularity": 0.1959,
       "release_date": "2023-08-31",
       "vote_average": 5.4,
       "vote_count": 17,
@@ -130350,7 +130350,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 4.488,
+      "popularity": 4.3685,
       "release_date": "2014-12-12",
       "vote_average": 7.363,
       "vote_count": 1177,
@@ -130866,7 +130866,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 0.8425,
+      "popularity": 0.804,
       "release_date": "2000-05-05",
       "vote_average": 5.418,
       "vote_count": 85,
@@ -130922,7 +130922,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.6589,
+      "popularity": 1.44,
       "release_date": "2017-09-08",
       "vote_average": 4.583,
       "vote_count": 156,
@@ -131270,7 +131270,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 0.8196,
+      "popularity": 0.8232,
       "release_date": "2023-07-27",
       "vote_average": 6.6,
       "vote_count": 34,
@@ -131378,7 +131378,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 3.1825,
+      "popularity": 3.7101,
       "release_date": "2007-06-15",
       "vote_average": 6.698,
       "vote_count": 1483,
@@ -131526,10 +131526,10 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 0.1464,
+      "popularity": 0.1203,
       "release_date": "2013-10-16",
-      "vote_average": 7.194,
-      "vote_count": 1000,
+      "vote_average": 7.197,
+      "vote_count": 1001,
       "poster_path": "/oPBEnNP4Fg4gv9c0KBhchmtoG4H.jpg",
       "runtime": 22
     },
@@ -131590,7 +131590,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.1653,
+      "popularity": 1.0814,
       "release_date": "2010-12-20",
       "vote_average": 5.873,
       "vote_count": 1175,
@@ -131842,7 +131842,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.3853,
+      "popularity": 0.3891,
       "release_date": "1992-12-17",
       "vote_average": 6.673,
       "vote_count": 204,
@@ -132446,7 +132446,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.4447,
+      "popularity": 1.2516,
       "release_date": "2015-06-04",
       "vote_average": 5.7,
       "vote_count": 419,
@@ -132470,7 +132470,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.6412,
+      "popularity": 2.1925,
       "release_date": "1999-10-08",
       "vote_average": 5.6,
       "vote_count": 419,
@@ -132766,7 +132766,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.194,
+      "popularity": 1.9212,
       "release_date": "2024-07-11",
       "vote_average": 7.153,
       "vote_count": 76,
@@ -132902,7 +132902,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 2.0701,
+      "popularity": 2.4881,
       "release_date": "2024-05-09",
       "vote_average": 4.367,
       "vote_count": 64,
@@ -133046,7 +133046,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 3.9314,
+      "popularity": 4.1039,
       "release_date": "2003-07-02",
       "vote_average": 7,
       "vote_count": 2179,
@@ -133294,7 +133294,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 1.6854,
+      "popularity": 1.8375,
       "release_date": "2015-12-03",
       "vote_average": 7.804,
       "vote_count": 1463,
@@ -133650,7 +133650,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.505,
+      "popularity": 1.3802,
       "release_date": "2024-02-07",
       "vote_average": 5.6,
       "vote_count": 325,
@@ -134190,7 +134190,7 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 5.0329,
+      "popularity": 4.6114,
       "release_date": "2008-10-10",
       "vote_average": 7.254,
       "vote_count": 6143,
@@ -134450,7 +134450,7 @@
           "name": "Animazione"
         }
       ],
-      "popularity": 2.9852,
+      "popularity": 2.7257,
       "release_date": "2016-06-18",
       "vote_average": 6.317,
       "vote_count": 8486,
@@ -134546,10 +134546,10 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 5.824,
+      "popularity": 5.8927,
       "release_date": "1997-08-15",
-      "vote_average": 6.6,
-      "vote_count": 3256,
+      "vote_average": 6.575,
+      "vote_count": 3257,
       "poster_path": "/hfuo1sN4pIv0zBPGjPiiddD9G7f.jpg",
       "runtime": 96
     },
@@ -134570,7 +134570,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 6.4762,
+      "popularity": 7.2406,
       "release_date": "2014-12-18",
       "vote_average": 6.238,
       "vote_count": 1351,
@@ -134822,7 +134822,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.5786,
+      "popularity": 0.5163,
       "release_date": "2024-09-20",
       "vote_average": 5.929,
       "vote_count": 14,
@@ -135066,7 +135066,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.2357,
+      "popularity": 1.5067,
       "release_date": "2023-09-15",
       "vote_average": 6.445,
       "vote_count": 166,
@@ -135282,7 +135282,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.1315,
+      "popularity": 2.0099,
       "release_date": "2005-09-30",
       "vote_average": 7.305,
       "vote_count": 532,
@@ -135434,7 +135434,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 3.6197,
+      "popularity": 4.3888,
       "release_date": "2009-07-24",
       "vote_average": 5.487,
       "vote_count": 1998,
@@ -136230,7 +136230,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 4.7458,
+      "popularity": 4.8444,
       "release_date": "2023-06-23",
       "vote_average": 7.9,
       "vote_count": 1378,
@@ -136326,7 +136326,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.8726,
+      "popularity": 2.0333,
       "release_date": "2022-08-12",
       "vote_average": 6.676,
       "vote_count": 999,
@@ -137258,7 +137258,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.0255,
+      "popularity": 0.9814,
       "release_date": "2019-07-12",
       "vote_average": 6.2,
       "vote_count": 183,
@@ -137338,7 +137338,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 1.7049,
+      "popularity": 1.6234,
       "release_date": "2020-11-25",
       "vote_average": 7.3,
       "vote_count": 435,
@@ -137802,7 +137802,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.2619,
+      "popularity": 0.23,
       "release_date": "2024-02-22",
       "vote_average": 6.2,
       "vote_count": 17,
@@ -138018,7 +138018,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.7763,
+      "popularity": 2.3863,
       "release_date": "2011-09-30",
       "vote_average": 6.353,
       "vote_count": 2215,
@@ -138042,7 +138042,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.129,
+      "popularity": 2.3203,
       "release_date": "2020-03-06",
       "vote_average": 7.173,
       "vote_count": 1474,
@@ -138302,7 +138302,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 5.3056,
+      "popularity": 4.6806,
       "release_date": "2023-10-05",
       "vote_average": 6.381,
       "vote_count": 1143,
@@ -138698,7 +138698,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 1.8722,
+      "popularity": 1.64,
       "release_date": "2024-05-24",
       "vote_average": 7.422,
       "vote_count": 251,
@@ -139802,7 +139802,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.9671,
+      "popularity": 1.8987,
       "release_date": "2004-01-09",
       "vote_average": 6.231,
       "vote_count": 649,
@@ -140022,7 +140022,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.7591,
+      "popularity": 0.9048,
       "release_date": "2018-10-31",
       "vote_average": 6.382,
       "vote_count": 157,
@@ -140486,7 +140486,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.2538,
+      "popularity": 0.2405,
       "release_date": "2013-03-14",
       "vote_average": 5.961,
       "vote_count": 324,
@@ -142042,9 +142042,9 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 13.0747,
+      "popularity": 11.7406,
       "release_date": "2024-05-22",
-      "vote_average": 7.453,
+      "vote_average": 7.5,
       "vote_count": 4829,
       "poster_path": "/fMG7ALVMYT8mVY9zQyVPIFCzQnN.jpg",
       "runtime": 148
@@ -142066,7 +142066,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 5.1601,
+      "popularity": 5.4487,
       "release_date": "2007-10-05",
       "vote_average": 8.055,
       "vote_count": 2694,
@@ -142194,7 +142194,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.2554,
+      "popularity": 0.2043,
       "release_date": "2024-01-18",
       "vote_average": 5.9,
       "vote_count": 95,
@@ -142678,10 +142678,10 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 5.1392,
+      "popularity": 6.1075,
       "release_date": "2001-12-14",
       "vote_average": 6.82,
-      "vote_count": 4634,
+      "vote_count": 4635,
       "poster_path": "/aV9cwAmpNhxlX8l64RXULc9jrqN.jpg",
       "runtime": 136
     },
@@ -142738,7 +142738,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 2.6936,
+      "popularity": 2.6218,
       "release_date": "2021-03-18",
       "vote_average": 8.1,
       "vote_count": 184,
@@ -142846,7 +142846,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 0.9536,
+      "popularity": 0.8781,
       "release_date": "2021-08-20",
       "vote_average": 6.949,
       "vote_count": 188,
@@ -143514,7 +143514,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 0.5897,
+      "popularity": 0.4717,
       "release_date": "2023-07-06",
       "vote_average": 5.639,
       "vote_count": 61,
@@ -144274,7 +144274,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.9217,
+      "popularity": 0.8947,
       "release_date": "2024-04-12",
       "vote_average": 6.228,
       "vote_count": 101,
@@ -145018,7 +145018,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 1.9727,
+      "popularity": 1.8694,
       "release_date": "1985-12-06",
       "vote_average": 6.199,
       "vote_count": 700,
@@ -145166,7 +145166,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 4.2976,
+      "popularity": 4.2723,
       "release_date": "1997-12-25",
       "vote_average": 7.357,
       "vote_count": 6909,
@@ -145490,7 +145490,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 1.0822,
+      "popularity": 1.1234,
       "release_date": "2008-12-30",
       "vote_average": 6.1,
       "vote_count": 43,
@@ -146170,7 +146170,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.4821,
+      "popularity": 1.8458,
       "release_date": "2002-10-15",
       "vote_average": 4.979,
       "vote_count": 396,
@@ -146858,7 +146858,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.2386,
+      "popularity": 1.6752,
       "release_date": "1998-11-10",
       "vote_average": 6.8,
       "vote_count": 592,
@@ -147198,7 +147198,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.2507,
+      "popularity": 0.2148,
       "release_date": "2023-10-12",
       "vote_average": 5.9,
       "vote_count": 21,
@@ -148098,7 +148098,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 6.5901,
+      "popularity": 6.5986,
       "release_date": "2000-02-03",
       "vote_average": 6.483,
       "vote_count": 4693,
@@ -148118,7 +148118,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 3.296,
+      "popularity": 3.5584,
       "release_date": "2023-11-10",
       "vote_average": 6.65,
       "vote_count": 1305,
@@ -148134,7 +148134,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.7037,
+      "popularity": 2.8689,
       "release_date": "2023-12-25",
       "vote_average": 7,
       "vote_count": 353,
@@ -148186,7 +148186,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 4.0593,
+      "popularity": 4.115,
       "release_date": "2011-11-23",
       "vote_average": 6.671,
       "vote_count": 1679,
@@ -148558,7 +148558,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 2.6822,
+      "popularity": 2.3477,
       "release_date": "2010-10-15",
       "vote_average": 6.608,
       "vote_count": 1453,
@@ -148606,7 +148606,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 3.6972,
+      "popularity": 3.5985,
       "release_date": "2002-10-25",
       "vote_average": 6.313,
       "vote_count": 1729,
@@ -148922,7 +148922,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 5.6293,
+      "popularity": 5.5956,
       "release_date": "1961-01-25",
       "vote_average": 7.174,
       "vote_count": 6647,
@@ -149014,7 +149014,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 3.1102,
+      "popularity": 3.2745,
       "release_date": "2015-10-20",
       "vote_average": 7.303,
       "vote_count": 3254,
@@ -149058,7 +149058,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.5169,
+      "popularity": 1.3867,
       "release_date": "2018-10-19",
       "vote_average": 6.8,
       "vote_count": 1344,
@@ -149370,7 +149370,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 3.6523,
+      "popularity": 3.7196,
       "release_date": "2008-12-25",
       "vote_average": 7.183,
       "vote_count": 4779,
@@ -149546,7 +149546,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 7.5505,
+      "popularity": 6.8474,
       "release_date": "1990-07-03",
       "vote_average": 6.971,
       "vote_count": 6379,
@@ -149842,9 +149842,9 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 4.9484,
+      "popularity": 5.3081,
       "release_date": "2010-11-12",
-      "vote_average": 7.088,
+      "vote_average": 7.1,
       "vote_count": 8063,
       "poster_path": "/xs9PD51i6oErdz457k7IhDmxbIb.jpg",
       "runtime": 94
@@ -150158,7 +150158,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.5639,
+      "popularity": 1.1467,
       "release_date": "2024-02-12",
       "vote_average": 5.463,
       "vote_count": 95,
@@ -150182,7 +150182,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.917,
+      "popularity": 0.9922,
       "release_date": "2023-10-31",
       "vote_average": 6.908,
       "vote_count": 217,
@@ -150918,10 +150918,10 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 6.7159,
+      "popularity": 7.934,
       "release_date": "1970-12-24",
       "vote_average": 7.298,
-      "vote_count": 5347,
+      "vote_count": 5348,
       "poster_path": "/uPKzHYVn8rHnS49hzjzGVhRjFmk.jpg",
       "runtime": 78
     },
@@ -151250,10 +151250,10 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 5.851,
+      "popularity": 5.4526,
       "release_date": "2024-03-20",
-      "vote_average": 6.452,
-      "vote_count": 2144,
+      "vote_average": 6.454,
+      "vote_count": 2145,
       "poster_path": "/zjkiAZ8vy2j2R90nWrvqg4lvOIp.jpg",
       "runtime": 115
     },
@@ -151586,9 +151586,9 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 5.6264,
+      "popularity": 5.7437,
       "release_date": "1991-12-27",
-      "vote_average": 7.667,
+      "vote_average": 7.7,
       "vote_count": 1464,
       "poster_path": "/neCe2O9j3u0lEvgPzCXaiFgUzH9.jpg",
       "runtime": 124
@@ -152205,7 +152205,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.9578,
+      "popularity": 0.6506,
       "release_date": "2024-01-23",
       "vote_average": 7.341,
       "vote_count": 66,
@@ -152365,7 +152365,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.3681,
+      "popularity": 2.5883,
       "release_date": "2021-10-29",
       "vote_average": 5.825,
       "vote_count": 254,
@@ -152785,7 +152785,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.3699,
+      "popularity": 1.4,
       "release_date": "2016-06-24",
       "vote_average": 5.434,
       "vote_count": 374,
@@ -152861,7 +152861,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.1675,
+      "popularity": 2.2444,
       "release_date": "2018-09-07",
       "vote_average": 6.084,
       "vote_count": 569,
@@ -153581,7 +153581,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.4554,
+      "popularity": 2.5139,
       "release_date": "2019-11-27",
       "vote_average": 5.884,
       "vote_count": 271,
@@ -153625,7 +153625,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 6.8962,
+      "popularity": 6.491,
       "release_date": "2013-12-18",
       "vote_average": 7.2,
       "vote_count": 8222,
@@ -153852,7 +153852,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.8415,
+      "popularity": 0.8567,
       "release_date": "2017-02-03",
       "vote_average": 6.954,
       "vote_count": 355,
@@ -154368,10 +154368,10 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 5.7685,
+      "popularity": 6.2164,
       "release_date": "2014-10-17",
       "vote_average": 7.442,
-      "vote_count": 13545,
+      "vote_count": 13546,
       "poster_path": "/ixqOju8zgZUmfclMyhI0IUhJbkJ.jpg",
       "runtime": 119
     },
@@ -154864,7 +154864,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 0.8897,
+      "popularity": 0.9742,
       "release_date": "2011-09-20",
       "vote_average": 5.749,
       "vote_count": 299,
@@ -155455,7 +155455,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.472,
+      "popularity": 0.4804,
       "release_date": "2019-08-30",
       "vote_average": 5.5,
       "vote_count": 21,
@@ -155679,7 +155679,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.929,
+      "popularity": 1.9499,
       "release_date": "2023-09-07",
       "vote_average": 7.794,
       "vote_count": 811,
@@ -155779,7 +155779,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 5.2887,
+      "popularity": 5.9703,
       "release_date": "2003-06-13",
       "vote_average": 7.098,
       "vote_count": 1330,
@@ -156763,7 +156763,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 1.0218,
+      "popularity": 0.9409,
       "release_date": "2020-10-02",
       "vote_average": 5.8,
       "vote_count": 215,
@@ -156799,7 +156799,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.7346,
+      "popularity": 0.6366,
       "release_date": "1984-12-20",
       "vote_average": 6.808,
       "vote_count": 409,
@@ -156835,7 +156835,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 0.1187,
+      "popularity": 0.0907,
       "release_date": "2023-11-19",
       "vote_average": 9,
       "vote_count": 2,
@@ -157167,7 +157167,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 1.4726,
+      "popularity": 1.5958,
       "release_date": "2009-01-09",
       "vote_average": 5.987,
       "vote_count": 865,
@@ -157919,7 +157919,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 0.1675,
+      "popularity": 0.1489,
       "release_date": "2023-05-30",
       "vote_average": 7.2,
       "vote_count": 12,
@@ -158093,7 +158093,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.377,
+      "popularity": 0.384,
       "release_date": "2023-10-12",
       "vote_average": 6.1,
       "vote_count": 26,
@@ -158133,7 +158133,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.0614,
+      "popularity": 0.0495,
       "release_date": "2023-01-03",
       "vote_average": 6,
       "vote_count": 3,
@@ -158388,7 +158388,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 0.8654,
+      "popularity": 0.5778,
       "release_date": "2022-12-18",
       "vote_average": 5.7,
       "vote_count": 73,
@@ -158660,7 +158660,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.6692,
+      "popularity": 0.6602,
       "release_date": "2021-11-26",
       "vote_average": 5.5,
       "vote_count": 18,
@@ -160152,7 +160152,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 4.4484,
+      "popularity": 4.5636,
       "release_date": "1975-12-18",
       "vote_average": 8,
       "vote_count": 3171,
@@ -160707,7 +160707,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 2.0785,
+      "popularity": 1.9625,
       "release_date": "2023-10-30",
       "vote_average": 6.307,
       "vote_count": 83,
@@ -161827,10 +161827,10 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 5.9679,
+      "popularity": 5.5629,
       "release_date": "2008-07-10",
       "vote_average": 6.088,
-      "vote_count": 5133,
+      "vote_count": 5134,
       "poster_path": "/w3cQUoKTl7HE4WB6xsjeSfzahHn.jpg",
       "runtime": 93
     },
@@ -162135,7 +162135,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 5.8846,
+      "popularity": 6.3734,
       "release_date": "2023-11-13",
       "vote_average": 6.2,
       "vote_count": 1770,
@@ -162591,7 +162591,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.5141,
+      "popularity": 1.1926,
       "release_date": "2022-11-24",
       "vote_average": 5.741,
       "vote_count": 253,
@@ -162959,10 +162959,10 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 9.8157,
+      "popularity": 9.0013,
       "release_date": "2023-09-27",
-      "vote_average": 7.009,
-      "vote_count": 3799,
+      "vote_average": 7.01,
+      "vote_count": 3800,
       "poster_path": "/c6otMCRG9bZzI97o9V8hCkOgUvA.jpg",
       "runtime": 134
     },
@@ -163131,7 +163131,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 2.2402,
+      "popularity": 2.3759,
       "release_date": "2018-11-07",
       "vote_average": 6.634,
       "vote_count": 700,
@@ -163283,10 +163283,10 @@
           "name": "Horror"
         }
       ],
-      "popularity": 3.0733,
+      "popularity": 3.4706,
       "release_date": "2023-05-31",
-      "vote_average": 6.385,
-      "vote_count": 1077,
+      "vote_average": 6.389,
+      "vote_count": 1078,
       "poster_path": "/8wsCjIUXuciEfQegPS0esAuFveE.jpg",
       "runtime": 99
     },
@@ -163519,10 +163519,10 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 2.2807,
+      "popularity": 1.8538,
       "release_date": "2023-09-22",
-      "vote_average": 5.968,
-      "vote_count": 173,
+      "vote_average": 5.945,
+      "vote_count": 174,
       "poster_path": "/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",
       "runtime": 94
     },
@@ -163979,7 +163979,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 5.3839,
+      "popularity": 5.8998,
       "release_date": "2023-06-08",
       "vote_average": 6.452,
       "vote_count": 2467,
@@ -164107,7 +164107,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 2.7736,
+      "popularity": 2.9573,
       "release_date": "2004-07-12",
       "vote_average": 6.291,
       "vote_count": 701,
@@ -164591,7 +164591,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 5.0163,
+      "popularity": 5.2548,
       "release_date": "2016-06-08",
       "vote_average": 7.013,
       "vote_count": 7934,
@@ -165219,7 +165219,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 3.0801,
+      "popularity": 3.3994,
       "release_date": "1999-02-19",
       "vote_average": 7.67,
       "vote_count": 1420,
@@ -165239,7 +165239,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 3.3572,
+      "popularity": 3.2336,
       "release_date": "2011-11-11",
       "vote_average": 4.394,
       "vote_count": 2213,
@@ -165363,7 +165363,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.4499,
+      "popularity": 0.3527,
       "release_date": "2019-12-20",
       "vote_average": 5.7,
       "vote_count": 62,
@@ -165531,7 +165531,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 4.9352,
+      "popularity": 5.314,
       "release_date": "2015-08-26",
       "vote_average": 6.941,
       "vote_count": 2712,
@@ -165863,7 +165863,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 3.7182,
+      "popularity": 4.774,
       "release_date": "2022-08-10",
       "vote_average": 6.758,
       "vote_count": 215,
@@ -166335,7 +166335,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 12.3795,
+      "popularity": 12.2157,
       "release_date": "2004-02-10",
       "vote_average": 7.49,
       "vote_count": 3154,
@@ -167747,7 +167747,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.33,
+      "popularity": 0.2687,
       "release_date": "2022-10-06",
       "vote_average": 6,
       "vote_count": 60,
@@ -167987,7 +167987,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.8387,
+      "popularity": 2.7294,
       "release_date": "2021-07-05",
       "vote_average": 7.238,
       "vote_count": 751,
@@ -168119,10 +168119,10 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 7.6052,
+      "popularity": 8.5632,
       "release_date": "1986-08-15",
-      "vote_average": 7.4,
-      "vote_count": 4944,
+      "vote_average": 7.431,
+      "vote_count": 4945,
       "poster_path": "/hA22nsN9LfotuVw9iGhgLl91lD5.jpg",
       "runtime": 100
     },
@@ -168147,7 +168147,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 4.6299,
+      "popularity": 4.3994,
       "release_date": "2004-10-28",
       "vote_average": 6.58,
       "vote_count": 3137,
@@ -168399,7 +168399,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 3.7571,
+      "popularity": 3.8008,
       "release_date": "2023-04-27",
       "vote_average": 6.288,
       "vote_count": 1288,
@@ -168727,7 +168727,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 7.9374,
+      "popularity": 8.981,
       "release_date": "2023-06-09",
       "vote_average": 7.381,
       "vote_count": 2877,
@@ -168839,7 +168839,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.3794,
+      "popularity": 1.0453,
       "release_date": "2022-09-23",
       "vote_average": 5.986,
       "vote_count": 384,
@@ -168863,7 +168863,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 41.1527,
+      "popularity": 40.7779,
       "release_date": "2023-06-08",
       "vote_average": 7.742,
       "vote_count": 4051,
@@ -169251,7 +169251,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 0.6517,
+      "popularity": 0.7424,
       "release_date": "2017-11-02",
       "vote_average": 6.787,
       "vote_count": 284,
@@ -170982,10 +170982,10 @@
           "name": "Romance"
         }
       ],
-      "popularity": 7.702,
+      "popularity": 9.1042,
       "release_date": "2023-04-18",
-      "vote_average": 6.879,
-      "vote_count": 2173,
+      "vote_average": 6.881,
+      "vote_count": 2174,
       "poster_path": "/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",
       "runtime": 117
     },
@@ -171086,7 +171086,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 1.6547,
+      "popularity": 1.7386,
       "release_date": "2022-09-30",
       "vote_average": 6.514,
       "vote_count": 417,
@@ -171538,10 +171538,10 @@
           "name": "Animazione"
         }
       ],
-      "popularity": 50.6966,
+      "popularity": 48.9096,
       "release_date": "2023-04-05",
       "vote_average": 7.592,
-      "vote_count": 10614,
+      "vote_count": 10620,
       "poster_path": "/u6qqnfdTLGsexK9ljiuvvB73LeB.jpg",
       "runtime": 92
     },
@@ -171866,7 +171866,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.39,
+      "popularity": 1.6131,
       "release_date": "2023-03-17",
       "vote_average": 7.1,
       "vote_count": 240,
@@ -172126,7 +172126,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 0.3495,
+      "popularity": 0.2951,
       "release_date": "2019-09-21",
       "vote_average": 4.8,
       "vote_count": 19,
@@ -172146,7 +172146,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 3.7874,
+      "popularity": 3.2006,
       "release_date": "2023-02-16",
       "vote_average": 6.772,
       "vote_count": 327,
@@ -172166,7 +172166,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 2.1721,
+      "popularity": 2.1534,
       "release_date": "2022-11-17",
       "vote_average": 7.187,
       "vote_count": 711,
@@ -172250,7 +172250,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 6.6602,
+      "popularity": 6.3414,
       "release_date": "2023-03-15",
       "vote_average": 6.4,
       "vote_count": 3624,
@@ -172702,7 +172702,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.2501,
+      "popularity": 0.289,
       "release_date": "2023-01-19",
       "vote_average": 3.5,
       "vote_count": 24,
@@ -173010,7 +173010,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.5752,
+      "popularity": 2.6546,
       "release_date": "2023-02-22",
       "vote_average": 5.906,
       "vote_count": 509,
@@ -173362,7 +173362,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.0497,
+      "popularity": 1.7187,
       "release_date": "2023-02-10",
       "vote_average": 5.8,
       "vote_count": 198,
@@ -173858,7 +173858,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.0627,
+      "popularity": 1.0421,
       "release_date": "2022-11-03",
       "vote_average": 6.1,
       "vote_count": 175,
@@ -173990,10 +173990,10 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 1.7362,
+      "popularity": 1.5228,
       "release_date": "2017-03-03",
-      "vote_average": 6.501,
-      "vote_count": 731,
+      "vote_average": 6.503,
+      "vote_count": 732,
       "poster_path": "/8KL8eyxDTeROvSQYMSCdabMoneC.jpg",
       "runtime": 129
     },
@@ -174878,7 +174878,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 3.7453,
+      "popularity": 3.3314,
       "release_date": "2022-12-22",
       "vote_average": 6.809,
       "vote_count": 2160,
@@ -175054,7 +175054,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 0.2803,
+      "popularity": 0.2581,
       "release_date": "2022-11-24",
       "vote_average": 4.2,
       "vote_count": 17,
@@ -175942,7 +175942,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 2.2856,
+      "popularity": 2.014,
       "release_date": "2022-12-08",
       "vote_average": 6.4,
       "vote_count": 282,
@@ -176034,7 +176034,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.3636,
+      "popularity": 0.5036,
       "release_date": "2022-12-06",
       "vote_average": 5.9,
       "vote_count": 80,
@@ -177270,7 +177270,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.2523,
+      "popularity": 0.2307,
       "release_date": "2022-02-24",
       "vote_average": 5.2,
       "vote_count": 24,
@@ -177518,7 +177518,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 5.0927,
+      "popularity": 5.1655,
       "release_date": "2022-11-04",
       "vote_average": 7.401,
       "vote_count": 2958,
@@ -177630,7 +177630,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.8409,
+      "popularity": 1.8845,
       "release_date": "2022-09-04",
       "vote_average": 6.051,
       "vote_count": 312,
@@ -177754,7 +177754,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 1.7167,
+      "popularity": 1.6872,
       "release_date": "2019-09-18",
       "vote_average": 6.428,
       "vote_count": 242,
@@ -178138,7 +178138,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 5.1912,
+      "popularity": 5.0378,
       "release_date": "2022-09-21",
       "vote_average": 6.772,
       "vote_count": 2923,
@@ -178250,10 +178250,10 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 3.1414,
+      "popularity": 3.498,
       "release_date": "2022-01-14",
-      "vote_average": 5.746,
-      "vote_count": 209,
+      "vote_average": 5.743,
+      "vote_count": 210,
       "poster_path": "/wzwNBT9XljvbWbdcHQGScylBNC3.jpg",
       "runtime": 93
     },
@@ -178294,7 +178294,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.0929,
+      "popularity": 1.2414,
       "release_date": "2022-10-14",
       "vote_average": 6.232,
       "vote_count": 211,
@@ -178338,7 +178338,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 12.076,
+      "popularity": 11.864,
       "release_date": "2022-10-06",
       "vote_average": 8.147,
       "vote_count": 811,
@@ -178926,7 +178926,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 0.9624,
+      "popularity": 1.1174,
       "release_date": "2002-06-21",
       "vote_average": 5.277,
       "vote_count": 320,
@@ -178998,7 +178998,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 1.2411,
+      "popularity": 1.1789,
       "release_date": "2009-03-27",
       "vote_average": 7.2,
       "vote_count": 691,
@@ -179262,7 +179262,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.0693,
+      "popularity": 1.2657,
       "release_date": "2021-07-14",
       "vote_average": 6.256,
       "vote_count": 240,
@@ -179430,10 +179430,10 @@
           "name": "Crime"
         }
       ],
-      "popularity": 4.3641,
+      "popularity": 5.2249,
       "release_date": "2022-04-28",
       "vote_average": 6.733,
-      "vote_count": 1654,
+      "vote_count": 1655,
       "poster_path": "/hy2xd5yEPzFQTgzpEUrBInjVtPA.jpg",
       "runtime": 114
     },
@@ -179570,7 +179570,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.1739,
+      "popularity": 1.9309,
       "release_date": "2022-01-28",
       "vote_average": 4.786,
       "vote_count": 379,
@@ -179618,7 +179618,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.3439,
+      "popularity": 0.4342,
       "release_date": "2007-10-09",
       "vote_average": 5.811,
       "vote_count": 581,
@@ -180126,7 +180126,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 0.862,
+      "popularity": 0.8419,
       "release_date": "2022-09-09",
       "vote_average": 6.966,
       "vote_count": 219,
@@ -180294,7 +180294,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 0.6831,
+      "popularity": 0.6508,
       "release_date": "2022-09-09",
       "vote_average": 5.8,
       "vote_count": 60,
@@ -180706,7 +180706,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.2744,
+      "popularity": 1.1045,
       "release_date": "2022-04-29",
       "vote_average": 5.277,
       "vote_count": 110,
@@ -181114,7 +181114,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 9.6335,
+      "popularity": 9.6891,
       "release_date": "2005-06-07",
       "vote_average": 6.692,
       "vote_count": 11179,
@@ -181754,7 +181754,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.7439,
+      "popularity": 0.5389,
       "release_date": "2022-08-18",
       "vote_average": 7.2,
       "vote_count": 265,
@@ -181902,7 +181902,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 3.0088,
+      "popularity": 2.7312,
       "release_date": "2006-10-19",
       "vote_average": 6.854,
       "vote_count": 2010,
@@ -182290,7 +182290,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.1854,
+      "popularity": 0.2513,
       "release_date": "2010-04-09",
       "vote_average": 6.297,
       "vote_count": 397,
@@ -182694,7 +182694,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.9832,
+      "popularity": 4.1789,
       "release_date": "2012-09-20",
       "vote_average": 7.349,
       "vote_count": 3604,
@@ -183042,7 +183042,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.8814,
+      "popularity": 3.0233,
       "release_date": "2021-08-18",
       "vote_average": 6.5,
       "vote_count": 1942,
@@ -183082,7 +183082,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 0.7277,
+      "popularity": 0.517,
       "release_date": "2022-06-03",
       "vote_average": 6.721,
       "vote_count": 70,
@@ -183126,7 +183126,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.6414,
+      "popularity": 2.0959,
       "release_date": "2022-04-14",
       "vote_average": 5.257,
       "vote_count": 148,
@@ -183574,7 +183574,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 5.6033,
+      "popularity": 5.6047,
       "release_date": "2022-06-24",
       "vote_average": 7.325,
       "vote_count": 1693,
@@ -183642,7 +183642,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.3384,
+      "popularity": 0.3322,
       "release_date": "1973-12-20",
       "vote_average": 7.158,
       "vote_count": 19,
@@ -184278,7 +184278,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.0618,
+      "popularity": 0.6244,
       "release_date": "2021-04-01",
       "vote_average": 7.2,
       "vote_count": 88,
@@ -184554,7 +184554,7 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 2.979,
+      "popularity": 3.0263,
       "release_date": "2018-09-30",
       "vote_average": 6.733,
       "vote_count": 443,
@@ -184598,7 +184598,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 1.3149,
+      "popularity": 1.5478,
       "release_date": "2022-06-03",
       "vote_average": 6.6,
       "vote_count": 63,
@@ -184730,7 +184730,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 1.8075,
+      "popularity": 2.0296,
       "release_date": "2012-08-10",
       "vote_average": 5.085,
       "vote_count": 252,
@@ -184830,7 +184830,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 2.9056,
+      "popularity": 3.4133,
       "release_date": "2011-09-16",
       "vote_average": 7.294,
       "vote_count": 1132,
@@ -184878,7 +184878,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 3.7286,
+      "popularity": 3.8127,
       "release_date": "2018-09-13",
       "vote_average": 6.208,
       "vote_count": 2132,
@@ -186589,7 +186589,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.3341,
+      "popularity": 1.2708,
       "release_date": "2022-04-27",
       "vote_average": 6.327,
       "vote_count": 150,
@@ -188125,7 +188125,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.0787,
+      "popularity": 1.9385,
       "release_date": "2001-10-12",
       "vote_average": 6.162,
       "vote_count": 465,
@@ -189125,7 +189125,7 @@
           "name": "Western"
         }
       ],
-      "popularity": 8.0822,
+      "popularity": 7.3947,
       "release_date": "1964-09-12",
       "vote_average": 7.8,
       "vote_count": 4685,
@@ -189141,7 +189141,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.785,
+      "popularity": 0.5955,
       "release_date": "2008-12-19",
       "vote_average": 5.096,
       "vote_count": 471,
@@ -189229,7 +189229,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 0.7944,
+      "popularity": 0.7412,
       "release_date": "2022-02-24",
       "vote_average": 4.768,
       "vote_count": 207,
@@ -189329,7 +189329,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 4.6584,
+      "popularity": 5.3365,
       "release_date": "2007-12-21",
       "vote_average": 7.961,
       "vote_count": 1323,
@@ -189401,7 +189401,7 @@
           "name": "Musica"
         }
       ],
-      "popularity": 3.2637,
+      "popularity": 4.0497,
       "release_date": "2000-09-28",
       "vote_average": 7.594,
       "vote_count": 4073,
@@ -189477,7 +189477,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.3252,
+      "popularity": 1.0914,
       "release_date": "2019-05-31",
       "vote_average": 6.647,
       "vote_count": 1391,
@@ -189689,7 +189689,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.7789,
+      "popularity": 0.7914,
       "release_date": "2022-03-04",
       "vote_average": 6.6,
       "vote_count": 190,
@@ -189801,7 +189801,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 1.8316,
+      "popularity": 1.9938,
       "release_date": "2022-02-10",
       "vote_average": 6.778,
       "vote_count": 609,
@@ -190445,7 +190445,7 @@
           "name": "Western"
         }
       ],
-      "popularity": 2.8188,
+      "popularity": 2.8647,
       "release_date": "1995-12-23",
       "vote_average": 7.308,
       "vote_count": 1722,
@@ -192505,7 +192505,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 3.3742,
+      "popularity": 3.2915,
       "release_date": "2021-12-08",
       "vote_average": 6.916,
       "vote_count": 1770,
@@ -192593,7 +192593,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 1.7924,
+      "popularity": 1.6621,
       "release_date": "2021-12-31",
       "vote_average": 6.9,
       "vote_count": 654,
@@ -192837,7 +192837,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.1439,
+      "popularity": 1.8507,
       "release_date": "2021-09-10",
       "vote_average": 7.446,
       "vote_count": 294,
@@ -193485,7 +193485,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 4.8758,
+      "popularity": 4.3372,
       "release_date": "2002-07-17",
       "vote_average": 6.506,
       "vote_count": 814,
@@ -193557,7 +193557,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.1956,
+      "popularity": 1.1544,
       "release_date": "2003-02-28",
       "vote_average": 6.1,
       "vote_count": 140,
@@ -194545,7 +194545,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 3.778,
+      "popularity": 3.7242,
       "release_date": "2013-03-20",
       "vote_average": 6.983,
       "vote_count": 5171,
@@ -194953,7 +194953,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 0.613,
+      "popularity": 0.5427,
       "release_date": "2021-12-24",
       "vote_average": 6.256,
       "vote_count": 131,
@@ -195229,7 +195229,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 0.4709,
+      "popularity": 0.3347,
       "release_date": "2021-12-16",
       "vote_average": 5.3,
       "vote_count": 86,
@@ -195457,7 +195457,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.0434,
+      "popularity": 1.1765,
       "release_date": "2017-09-07",
       "vote_average": 5.128,
       "vote_count": 226,
@@ -195501,7 +195501,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.1876,
+      "popularity": 0.1601,
       "release_date": "2021-11-29",
       "vote_average": 4.8,
       "vote_count": 10,
@@ -195569,10 +195569,10 @@
           "name": "Romance"
         }
       ],
-      "popularity": 7.627,
+      "popularity": 9.2704,
       "release_date": "1998-11-12",
       "vote_average": 7.359,
-      "vote_count": 5718,
+      "vote_count": 5719,
       "poster_path": "/hDdJdlYXFuK5urmOtOISsi9sk3w.jpg",
       "runtime": 178
     },
@@ -195873,7 +195873,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.8347,
+      "popularity": 0.889,
       "release_date": "2020-08-21",
       "vote_average": 6.152,
       "vote_count": 92,
@@ -196293,7 +196293,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.7538,
+      "popularity": 0.76,
       "release_date": "2020-10-16",
       "vote_average": 6.5,
       "vote_count": 36,
@@ -196521,7 +196521,7 @@
           "name": "Western"
         }
       ],
-      "popularity": 0.6264,
+      "popularity": 0.61,
       "release_date": "2021-01-28",
       "vote_average": 6.3,
       "vote_count": 81,
@@ -196621,7 +196621,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 1.0215,
+      "popularity": 1.1152,
       "release_date": "2011-12-11",
       "vote_average": 6.103,
       "vote_count": 310,
@@ -196785,7 +196785,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 2.2623,
+      "popularity": 2.4881,
       "release_date": "2019-11-12",
       "vote_average": 6.576,
       "vote_count": 747,
@@ -197429,7 +197429,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.8185,
+      "popularity": 0.7628,
       "release_date": "2018-03-29",
       "vote_average": 5.1,
       "vote_count": 52,
@@ -197449,7 +197449,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.755,
+      "popularity": 0.6803,
       "release_date": "2015-12-03",
       "vote_average": 5.97,
       "vote_count": 101,
@@ -197561,7 +197561,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 0.7972,
+      "popularity": 0.9286,
       "release_date": "2010-06-07",
       "vote_average": 6.057,
       "vote_count": 140,
@@ -197597,7 +197597,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 0.6801,
+      "popularity": 0.5801,
       "release_date": "2007-10-31",
       "vote_average": 4.5,
       "vote_count": 458,
@@ -197681,7 +197681,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 4.4843,
+      "popularity": 4.2648,
       "release_date": "2019-03-06",
       "vote_average": 6.33,
       "vote_count": 3520,
@@ -197705,7 +197705,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.8981,
+      "popularity": 0.6919,
       "release_date": "2020-10-01",
       "vote_average": 6.269,
       "vote_count": 54,
@@ -197973,7 +197973,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 2.2216,
+      "popularity": 2.0863,
       "release_date": "2021-04-30",
       "vote_average": 5.681,
       "vote_count": 324,
@@ -198661,7 +198661,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 10.5227,
+      "popularity": 10.1859,
       "release_date": "2006-08-31",
       "vote_average": 5.937,
       "vote_count": 1886,
@@ -198689,7 +198689,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 2.6562,
+      "popularity": 2.889,
       "release_date": "2011-04-09",
       "vote_average": 6.2,
       "vote_count": 641,
@@ -198761,9 +198761,9 @@
           "name": "Azione"
         }
       ],
-      "popularity": 2.7835,
+      "popularity": 2.8436,
       "release_date": "2021-04-30",
-      "vote_average": 5.901,
+      "vote_average": 5.9,
       "vote_count": 429,
       "poster_path": "/3GeipcILQdob8SjomTauSRkBG0L.jpg",
       "runtime": 109
@@ -199373,7 +199373,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 2.6765,
+      "popularity": 2.2286,
       "release_date": "2011-08-11",
       "vote_average": 5.776,
       "vote_count": 1822,
@@ -199525,7 +199525,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 5.2519,
+      "popularity": 5.5559,
       "release_date": "2021-08-09",
       "vote_average": 7.3,
       "vote_count": 1268,
@@ -199633,7 +199633,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 4.4377,
+      "popularity": 4.3543,
       "release_date": "2021-10-13",
       "vote_average": 7.409,
       "vote_count": 3833,
@@ -200069,7 +200069,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 3.9296,
+      "popularity": 4.251,
       "release_date": "2015-12-18",
       "vote_average": 6.252,
       "vote_count": 260,
@@ -200985,7 +200985,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.8518,
+      "popularity": 2.0348,
       "release_date": "1996-06-07",
       "vote_average": 5.551,
       "vote_count": 331,
@@ -201121,7 +201121,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 6.4491,
+      "popularity": 6.1534,
       "release_date": "1994-10-28",
       "vote_average": 7.017,
       "vote_count": 3776,
@@ -201445,7 +201445,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.5016,
+      "popularity": 2.6394,
       "release_date": "2021-09-29",
       "vote_average": 5.9,
       "vote_count": 727,
@@ -201465,7 +201465,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.1069,
+      "popularity": 1.1928,
       "release_date": "2017-01-18",
       "vote_average": 7.801,
       "vote_count": 900,
@@ -201669,7 +201669,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 0.7911,
+      "popularity": 0.7478,
       "release_date": "1990-08-24",
       "vote_average": 5.7,
       "vote_count": 86,
@@ -201877,7 +201877,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 4.5549,
+      "popularity": 4.853,
       "release_date": "2008-03-28",
       "vote_average": 5.284,
       "vote_count": 2000,
@@ -201913,7 +201913,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 2.2251,
+      "popularity": 2.1615,
       "release_date": "2015-08-28",
       "vote_average": 5.346,
       "vote_count": 452,
@@ -202005,7 +202005,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 5.551,
+      "popularity": 7.0277,
       "release_date": "2021-06-03",
       "vote_average": 5.452,
       "vote_count": 510,
@@ -202241,7 +202241,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 2.0919,
+      "popularity": 1.9793,
       "release_date": "2021-09-15",
       "vote_average": 6.1,
       "vote_count": 418,
@@ -202437,7 +202437,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 3.4531,
+      "popularity": 3.2277,
       "release_date": "1994-10-19",
       "vote_average": 7.379,
       "vote_count": 2747,
@@ -202525,7 +202525,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 2.746,
+      "popularity": 2.819,
       "release_date": "2013-08-15",
       "vote_average": 6.124,
       "vote_count": 2594,
@@ -203189,10 +203189,10 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 33.5008,
+      "popularity": 32.7324,
       "release_date": "2021-12-15",
       "vote_average": 7.934,
-      "vote_count": 21907,
+      "vote_count": 21910,
       "poster_path": "/nt4ydhdArDsjinTrV1lct0pYipA.jpg",
       "runtime": 148
     },
@@ -204533,7 +204533,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 1.9373,
+      "popularity": 2.0233,
       "release_date": "2016-02-29",
       "vote_average": 6.45,
       "vote_count": 1455,
@@ -204641,7 +204641,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 2.4435,
+      "popularity": 2.7236,
       "release_date": "2021-08-20",
       "vote_average": 7.261,
       "vote_count": 205,
@@ -204829,7 +204829,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.0198,
+      "popularity": 0.8636,
       "release_date": "2019-06-19",
       "vote_average": 6.464,
       "vote_count": 775,
@@ -204849,7 +204849,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.2501,
+      "popularity": 1.2783,
       "release_date": "2019-03-21",
       "vote_average": 5.651,
       "vote_count": 561,
@@ -205093,7 +205093,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 1.6638,
+      "popularity": 1.6487,
       "release_date": "2021-08-04",
       "vote_average": 6.171,
       "vote_count": 729,
@@ -205545,7 +205545,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.6337,
+      "popularity": 0.6906,
       "release_date": "2017-01-19",
       "vote_average": 6.6,
       "vote_count": 788,
@@ -206449,7 +206449,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.4072,
+      "popularity": 2.4062,
       "release_date": "1991-12-06",
       "vote_average": 7.041,
       "vote_count": 1412,
@@ -206625,7 +206625,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.8403,
+      "popularity": 1.6884,
       "release_date": "2016-04-07",
       "vote_average": 6.502,
       "vote_count": 1961,
@@ -206705,7 +206705,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 2.3601,
+      "popularity": 2.7704,
       "release_date": "2016-04-08",
       "vote_average": 7.16,
       "vote_count": 1573,
@@ -206873,7 +206873,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.8949,
+      "popularity": 2.2102,
       "release_date": "2016-09-15",
       "vote_average": 5.241,
       "vote_count": 2033,
@@ -206901,7 +206901,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 1.9752,
+      "popularity": 1.7906,
       "release_date": "2020-07-03",
       "vote_average": 6.247,
       "vote_count": 584,
@@ -207537,7 +207537,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.56,
+      "popularity": 2.0992,
       "release_date": "1984-06-01",
       "vote_average": 6.586,
       "vote_count": 1510,
@@ -207689,7 +207689,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.8724,
+      "popularity": 2.799,
       "release_date": "1982-06-04",
       "vote_average": 7.45,
       "vote_count": 2121,
@@ -208433,7 +208433,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.9814,
+      "popularity": 1.2474,
       "release_date": "2020-02-14",
       "vote_average": 6.324,
       "vote_count": 216,
@@ -208753,7 +208753,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 14.9858,
+      "popularity": 15.4047,
       "release_date": "2021-07-28",
       "vote_average": 7.461,
       "vote_count": 9545,
@@ -208945,7 +208945,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 18.4609,
+      "popularity": 16.7562,
       "release_date": "2022-05-04",
       "vote_average": 7.227,
       "vote_count": 10272,
@@ -209125,7 +209125,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 4.3965,
+      "popularity": 4.0295,
       "release_date": "2021-07-01",
       "vote_average": 6.513,
       "vote_count": 2266,
@@ -209265,10 +209265,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.8601,
+      "popularity": 4.0593,
       "release_date": "2010-11-23",
-      "vote_average": 6.352,
-      "vote_count": 2087,
+      "vote_average": 6.353,
+      "vote_count": 2088,
       "poster_path": "/sRdaSKSVFhKOoSlmldKYJvx7K9v.jpg",
       "runtime": 98
     },
@@ -209753,7 +209753,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 7.292,
+      "popularity": 6.2188,
       "release_date": "2021-04-15",
       "vote_average": 6.2,
       "vote_count": 572,
@@ -209833,10 +209833,10 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 4.8038,
+      "popularity": 5.7104,
       "release_date": "2005-11-06",
-      "vote_average": 6.437,
-      "vote_count": 3562,
+      "vote_average": 6.438,
+      "vote_count": 3564,
       "poster_path": "/gJCOB4u1TI2AjLIEnvnfIivS5d1.jpg",
       "runtime": 113
     },
@@ -209913,7 +209913,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 5.4457,
+      "popularity": 5.5833,
       "release_date": "2021-07-21",
       "vote_average": 6.322,
       "vote_count": 4855,
@@ -210077,7 +210077,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 5.6664,
+      "popularity": 5.3251,
       "release_date": "2019-06-12",
       "vote_average": 5.898,
       "vote_count": 5327,
@@ -210241,10 +210241,10 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 2.1518,
+      "popularity": 2.0958,
       "release_date": "2021-06-25",
-      "vote_average": 6.028,
-      "vote_count": 625,
+      "vote_average": 6.03,
+      "vote_count": 626,
       "poster_path": "/4I7hDzloqVGaioo8RSb7d8LMCJC.jpg",
       "runtime": 97
     },
@@ -210921,7 +210921,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 2.8172,
+      "popularity": 2.184,
       "release_date": "2020-12-14",
       "vote_average": 5.2,
       "vote_count": 137,
@@ -210969,9 +210969,9 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 10.1259,
+      "popularity": 9.756,
       "release_date": "2006-11-14",
-      "vote_average": 7.6,
+      "vote_average": 7.569,
       "vote_count": 11641,
       "poster_path": "/qplE2N7QWTO6w7X8zW46X3cGUBZ.jpg",
       "runtime": 144
@@ -211285,7 +211285,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 6.902,
+      "popularity": 6.9758,
       "release_date": "2015-04-16",
       "vote_average": 7.466,
       "vote_count": 7078,
@@ -211617,10 +211617,10 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 19.7296,
+      "popularity": 22.2112,
       "release_date": "2008-06-22",
-      "vote_average": 8.11,
-      "vote_count": 20192,
+      "vote_average": 8.111,
+      "vote_count": 20194,
       "poster_path": "/1ZkFCJwN6hNUdNZUIUCeugja06j.jpg",
       "runtime": 97
     },
@@ -212240,7 +212240,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.3392,
+      "popularity": 0.3688,
       "release_date": "2009-12-17",
       "vote_average": 5.489,
       "vote_count": 415,
@@ -212308,7 +212308,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.726,
+      "popularity": 1.6473,
       "release_date": "2016-02-26",
       "vote_average": 5.112,
       "vote_count": 376,
@@ -213656,7 +213656,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.0262,
+      "popularity": 2.7707,
       "release_date": "2021-05-13",
       "vote_average": 6,
       "vote_count": 2133,
@@ -214528,7 +214528,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.6932,
+      "popularity": 0.7564,
       "release_date": "2020-07-14",
       "vote_average": 5.728,
       "vote_count": 248,
@@ -214880,7 +214880,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.8257,
+      "popularity": 2.093,
       "release_date": "2018-06-07",
       "vote_average": 6.072,
       "vote_count": 1669,
@@ -214956,7 +214956,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 1.0621,
+      "popularity": 0.8818,
       "release_date": "2010-12-07",
       "vote_average": 5.8,
       "vote_count": 188,
@@ -214976,7 +214976,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 0.9232,
+      "popularity": 1.127,
       "release_date": "2018-09-27",
       "vote_average": 5.885,
       "vote_count": 365,
@@ -215476,7 +215476,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 2.5082,
+      "popularity": 2.1781,
       "release_date": "2013-08-07",
       "vote_average": 6.9,
       "vote_count": 952,
@@ -215832,10 +215832,10 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 11.3918,
+      "popularity": 13.0575,
       "release_date": "2021-03-24",
       "vote_average": 7.535,
-      "vote_count": 10597,
+      "vote_count": 10598,
       "poster_path": "/eQUdX1DEt0OWVnUXaJmXZSIs40m.jpg",
       "runtime": 113
     },
@@ -215920,7 +215920,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 2.1319,
+      "popularity": 1.9323,
       "release_date": "2003-05-02",
       "vote_average": 6.328,
       "vote_count": 1325,
@@ -216124,7 +216124,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 0.3133,
+      "popularity": 0.2777,
       "release_date": "2019-09-01",
       "vote_average": 6.1,
       "vote_count": 19,
@@ -216168,7 +216168,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 1.2596,
+      "popularity": 1.0287,
       "release_date": "2023-05-31",
       "vote_average": 3.9,
       "vote_count": 10,
@@ -216452,7 +216452,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 4.8537,
+      "popularity": 4.5944,
       "release_date": "2011-12-25",
       "vote_average": 7.3,
       "vote_count": 3666,
@@ -216784,7 +216784,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 0.6997,
+      "popularity": 0.7622,
       "release_date": "2017-11-23",
       "vote_average": 5.577,
       "vote_count": 98,
@@ -217920,7 +217920,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.4896,
+      "popularity": 0.4572,
       "release_date": "2020-03-12",
       "vote_average": 6.3,
       "vote_count": 64,
@@ -218116,7 +218116,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 2.8852,
+      "popularity": 2.5071,
       "release_date": "2016-07-28",
       "vote_average": 5.623,
       "vote_count": 175,
@@ -218816,7 +218816,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 3.0434,
+      "popularity": 2.8702,
       "release_date": "2002-02-14",
       "vote_average": 6.477,
       "vote_count": 2393,
@@ -218948,7 +218948,7 @@
           "name": "televisione film"
         }
       ],
-      "popularity": 1.0546,
+      "popularity": 0.8409,
       "release_date": "2014-03-22",
       "vote_average": 7.023,
       "vote_count": 243,
@@ -219068,7 +219068,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 6.4598,
+      "popularity": 5.9545,
       "release_date": "1990-11-21",
       "vote_average": 6.303,
       "vote_count": 3804,
@@ -219592,9 +219592,9 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 5.2873,
+      "popularity": 4.6345,
       "release_date": "1991-06-14",
-      "vote_average": 6.856,
+      "vote_average": 6.9,
       "vote_count": 3568,
       "poster_path": "/2l7W3jvfiVfmpJDPpfJWg2YBGJm.jpg",
       "runtime": 143
@@ -219652,7 +219652,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 5.6856,
+      "popularity": 5.7233,
       "release_date": "2012-01-19",
       "vote_average": 6.144,
       "vote_count": 4495,
@@ -219920,10 +219920,10 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 5.1043,
+      "popularity": 5.1538,
       "release_date": "2005-05-05",
-      "vote_average": 6,
-      "vote_count": 3318,
+      "vote_average": 6.027,
+      "vote_count": 3319,
       "poster_path": "/vwpXeoT4BcZoM930IOU6p0ulrY8.jpg",
       "runtime": 113
     },
@@ -220280,7 +220280,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 6.487,
+      "popularity": 6.4416,
       "release_date": "2018-01-18",
       "vote_average": 6.9,
       "vote_count": 3383,
@@ -220300,7 +220300,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 9.4279,
+      "popularity": 8.4828,
       "release_date": "2003-02-07",
       "vote_average": 6.863,
       "vote_count": 4448,
@@ -220456,7 +220456,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 2.3209,
+      "popularity": 2.2279,
       "release_date": "2016-09-29",
       "vote_average": 5.754,
       "vote_count": 1849,
@@ -220564,7 +220564,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.358,
+      "popularity": 0.273,
       "release_date": "2001-12-21",
       "vote_average": 5.563,
       "vote_count": 293,
@@ -220652,7 +220652,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.4017,
+      "popularity": 2.3098,
       "release_date": "2021-02-12",
       "vote_average": 7.503,
       "vote_count": 2058,
@@ -220820,7 +220820,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.1527,
+      "popularity": 1.2327,
       "release_date": "2020-09-16",
       "vote_average": 6,
       "vote_count": 274,
@@ -221740,7 +221740,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 2.7072,
+      "popularity": 2.4593,
       "release_date": "2020-08-27",
       "vote_average": 6.4,
       "vote_count": 1053,
@@ -222231,7 +222231,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 2.7023,
+      "popularity": 2.5672,
       "release_date": "2019-04-04",
       "vote_average": 6.915,
       "vote_count": 920,
@@ -222519,7 +222519,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 2.6091,
+      "popularity": 2.6152,
       "release_date": "1997-01-17",
       "vote_average": 5.6,
       "vote_count": 841,
@@ -222747,7 +222747,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.8351,
+      "popularity": 0.6446,
       "release_date": "2018-03-12",
       "vote_average": 6.4,
       "vote_count": 147,
@@ -223159,7 +223159,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 8.5866,
+      "popularity": 9.1969,
       "release_date": "2011-10-27",
       "vote_average": 6.97,
       "vote_count": 12107,
@@ -223179,7 +223179,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 4.186,
+      "popularity": 5.6534,
       "release_date": "2010-11-26",
       "vote_average": 7.733,
       "vote_count": 9275,
@@ -223255,7 +223255,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.0766,
+      "popularity": 0.8577,
       "release_date": "2018-12-09",
       "vote_average": 4.2,
       "vote_count": 69,
@@ -223443,7 +223443,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.2544,
+      "popularity": 2.3701,
       "release_date": "2014-12-25",
       "vote_average": 7.4,
       "vote_count": 2317,
@@ -223783,7 +223783,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 4.4625,
+      "popularity": 4.8858,
       "release_date": "2001-09-28",
       "vote_average": 6.22,
       "vote_count": 4895,
@@ -223927,7 +223927,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.9633,
+      "popularity": 1.6752,
       "release_date": "2018-05-03",
       "vote_average": 6.547,
       "vote_count": 330,
@@ -224059,7 +224059,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 3.6633,
+      "popularity": 3.4608,
       "release_date": "2013-09-13",
       "vote_average": 6.365,
       "vote_count": 3103,
@@ -224283,7 +224283,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.2494,
+      "popularity": 3.6027,
       "release_date": "2020-08-13",
       "vote_average": 6.343,
       "vote_count": 795,
@@ -224827,7 +224827,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.8619,
+      "popularity": 2.7572,
       "release_date": "2004-08-27",
       "vote_average": 5.569,
       "vote_count": 372,
@@ -224895,7 +224895,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 1.5613,
+      "popularity": 1.5749,
       "release_date": "2020-12-11",
       "vote_average": 7.515,
       "vote_count": 202,
@@ -225239,7 +225239,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 3.0565,
+      "popularity": 2.9271,
       "release_date": "2020-04-16",
       "vote_average": 7.286,
       "vote_count": 656,
@@ -225315,7 +225315,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 11.007,
+      "popularity": 10.4656,
       "release_date": "2021-05-25",
       "vote_average": 7.354,
       "vote_count": 6511,
@@ -225339,7 +225339,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.3922,
+      "popularity": 0.299,
       "release_date": "2016-11-23",
       "vote_average": 6.8,
       "vote_count": 243,
@@ -226171,7 +226171,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.7824,
+      "popularity": 1.6421,
       "release_date": "2016-09-13",
       "vote_average": 6.687,
       "vote_count": 540,
@@ -226351,7 +226351,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 8.0581,
+      "popularity": 8.9933,
       "release_date": "1959-02-17",
       "vote_average": 6.942,
       "vote_count": 5459,
@@ -226499,7 +226499,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 6.7668,
+      "popularity": 6.9193,
       "release_date": "1985-02-15",
       "vote_average": 7.723,
       "vote_count": 8510,
@@ -226827,7 +226827,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 2.2662,
+      "popularity": 1.9965,
       "release_date": "2018-10-25",
       "vote_average": 6.984,
       "vote_count": 2279,
@@ -227059,7 +227059,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.8881,
+      "popularity": 0.913,
       "release_date": "2020-03-27",
       "vote_average": 6.1,
       "vote_count": 241,
@@ -227131,7 +227131,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 1.3941,
+      "popularity": 1.1545,
       "release_date": "2018-01-18",
       "vote_average": 6.183,
       "vote_count": 216,
@@ -227319,7 +227319,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 13.6452,
+      "popularity": 13.0374,
       "release_date": "2002-08-30",
       "vote_average": 8.43,
       "vote_count": 8151,
@@ -228267,7 +228267,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.2839,
+      "popularity": 2.2684,
       "release_date": "2016-09-02",
       "vote_average": 5.7,
       "vote_count": 476,
@@ -228379,7 +228379,7 @@
           "name": "Documentario"
         }
       ],
-      "popularity": 0.4056,
+      "popularity": 0.3624,
       "release_date": "2020-10-19",
       "vote_average": 7.427,
       "vote_count": 211,
@@ -228675,7 +228675,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.4984,
+      "popularity": 1.518,
       "release_date": "2020-10-02",
       "vote_average": 6.085,
       "vote_count": 788,
@@ -229855,7 +229855,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 8.0578,
+      "popularity": 7.5423,
       "release_date": "1984-05-23",
       "vote_average": 7.307,
       "vote_count": 10084,
@@ -230151,7 +230151,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.4215,
+      "popularity": 2.5671,
       "release_date": "2020-02-20",
       "vote_average": 5.9,
       "vote_count": 1298,
@@ -230207,10 +230207,10 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 21.4092,
+      "popularity": 19.9391,
       "release_date": "2011-09-28",
       "vote_average": 7.072,
-      "vote_count": 9060,
+      "vote_count": 9063,
       "poster_path": "/7gjGwYwj2aW8bUUJyWzesw54cPL.jpg",
       "runtime": 126
     },
@@ -230239,7 +230239,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 4.7925,
+      "popularity": 4.614,
       "release_date": "2017-01-19",
       "vote_average": 7.637,
       "vote_count": 3515,
@@ -231103,7 +231103,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 1.0617,
+      "popularity": 1.1815,
       "release_date": "2020-04-09",
       "vote_average": 6.66,
       "vote_count": 219,
@@ -231311,10 +231311,10 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 9.6719,
+      "popularity": 9.5117,
       "release_date": "2010-10-28",
       "vote_average": 7.023,
-      "vote_count": 7439,
+      "vote_count": 7442,
       "poster_path": "/qK07E0O1iOjK38EnQ1deDCqiOCt.jpg",
       "runtime": 96
     },
@@ -231675,7 +231675,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 9.9019,
+      "popularity": 9.7911,
       "release_date": "1984-11-09",
       "vote_average": 7.344,
       "vote_count": 5700,
@@ -231951,7 +231951,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.6204,
+      "popularity": 1.7059,
       "release_date": "2020-06-26",
       "vote_average": 6.413,
       "vote_count": 1561,
@@ -231967,7 +231967,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.1004,
+      "popularity": 0.103,
       "release_date": "2019-07-18",
       "vote_average": 5.6,
       "vote_count": 5,
@@ -232067,7 +232067,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.2022,
+      "popularity": 0.2539,
       "release_date": "2020-01-15",
       "vote_average": 5.6,
       "vote_count": 13,
@@ -232707,7 +232707,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.486,
+      "popularity": 2.577,
       "release_date": "2020-06-10",
       "vote_average": 6.979,
       "vote_count": 474,
@@ -233247,7 +233247,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 2.7738,
+      "popularity": 2.413,
       "release_date": "1998-05-15",
       "vote_average": 6.847,
       "vote_count": 851,
@@ -234339,7 +234339,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 6.4948,
+      "popularity": 6.2975,
       "release_date": "2004-04-13",
       "vote_average": 6.771,
       "vote_count": 5521,
@@ -234379,7 +234379,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.8937,
+      "popularity": 0.6177,
       "release_date": "1965-09-18",
       "vote_average": 7.138,
       "vote_count": 206,
@@ -234451,7 +234451,7 @@
           "name": "Storia"
         }
       ],
-      "popularity": 0.7619,
+      "popularity": 0.6751,
       "release_date": "1955-09-29",
       "vote_average": 7.254,
       "vote_count": 187,
@@ -234579,7 +234579,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.384,
+      "popularity": 1.2594,
       "release_date": "2019-10-31",
       "vote_average": 6.9,
       "vote_count": 46,
@@ -234651,7 +234651,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 1.2529,
+      "popularity": 0.9163,
       "release_date": "2018-05-05",
       "vote_average": 5.3,
       "vote_count": 117,
@@ -234855,7 +234855,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 5.43,
+      "popularity": 5.8117,
       "release_date": "2010-12-02",
       "vote_average": 6.441,
       "vote_count": 5879,
@@ -235063,7 +235063,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.6687,
+      "popularity": 2.6896,
       "release_date": "2014-05-18",
       "vote_average": 6.535,
       "vote_count": 864,
@@ -235235,7 +235235,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 3.4999,
+      "popularity": 3.1938,
       "release_date": "2007-07-12",
       "vote_average": 6.087,
       "vote_count": 2523,
@@ -235387,7 +235387,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.0211,
+      "popularity": 0.9708,
       "release_date": "2020-02-13",
       "vote_average": 6.807,
       "vote_count": 436,
@@ -236343,7 +236343,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 2.9345,
+      "popularity": 3.0635,
       "release_date": "2003-11-14",
       "vote_average": 6.358,
       "vote_count": 1596,
@@ -236455,7 +236455,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 2.8739,
+      "popularity": 2.5854,
       "release_date": "2003-03-14",
       "vote_average": 5.545,
       "vote_count": 1162,
@@ -237487,7 +237487,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 1.8151,
+      "popularity": 1.7685,
       "release_date": "2000-08-08",
       "vote_average": 5.382,
       "vote_count": 314,
@@ -237647,7 +237647,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 2.8767,
+      "popularity": 3.2931,
       "release_date": "1996-05-31",
       "vote_average": 6.553,
       "vote_count": 2138,
@@ -238151,10 +238151,10 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 18.5632,
+      "popularity": 18.7114,
       "release_date": "2009-05-28",
-      "vote_average": 8,
-      "vote_count": 21601,
+      "vote_average": 7.959,
+      "vote_count": 21603,
       "poster_path": "/j3Ga41uc0y3W8KbKjSfPHQiZYVn.jpg",
       "runtime": 104
     },
@@ -238503,10 +238503,10 @@
           "name": "Storia"
         }
       ],
-      "popularity": 5.6887,
+      "popularity": 6.176,
       "release_date": "2001-02-28",
       "vote_average": 7.418,
-      "vote_count": 4012,
+      "vote_count": 4013,
       "poster_path": "/5Bn5BOSVeqcNT1WYXw0Upzm6xF9.jpg",
       "runtime": 131
     },
@@ -238663,7 +238663,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 0.2655,
+      "popularity": 0.2316,
       "release_date": "2019-10-20",
       "vote_average": 4.9,
       "vote_count": 24,
@@ -238847,7 +238847,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.5869,
+      "popularity": 0.6423,
       "release_date": "2020-01-24",
       "vote_average": 6.376,
       "vote_count": 279,
@@ -239087,7 +239087,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.2326,
+      "popularity": 2.6285,
       "release_date": "2017-03-16",
       "vote_average": 5.573,
       "vote_count": 335,
@@ -239147,7 +239147,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 0.7652,
+      "popularity": 0.6423,
       "release_date": "2015-05-21",
       "vote_average": 4.4,
       "vote_count": 182,
@@ -239163,7 +239163,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.666,
+      "popularity": 0.9158,
       "release_date": "2017-08-03",
       "vote_average": 6.8,
       "vote_count": 119,
@@ -239255,7 +239255,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 1.6299,
+      "popularity": 1.774,
       "release_date": "2018-01-12",
       "vote_average": 5.498,
       "vote_count": 529,
@@ -240103,7 +240103,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.2437,
+      "popularity": 2.2022,
       "release_date": "2016-01-07",
       "vote_average": 5.556,
       "vote_count": 1319,
@@ -241135,7 +241135,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 10.7926,
+      "popularity": 12.1381,
       "release_date": "2014-05-28",
       "vote_average": 7.1,
       "vote_count": 13688,
@@ -241771,7 +241771,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 1.6121,
+      "popularity": 1.3852,
       "release_date": "2020-02-24",
       "vote_average": 7.08,
       "vote_count": 895,
@@ -241883,7 +241883,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.7576,
+      "popularity": 1.835,
       "release_date": "2020-01-28",
       "vote_average": 6.553,
       "vote_count": 357,
@@ -242255,7 +242255,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.8437,
+      "popularity": 1.6583,
       "release_date": "2019-10-04",
       "vote_average": 7.333,
       "vote_count": 824,
@@ -242303,7 +242303,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 1.2108,
+      "popularity": 1.2752,
       "release_date": "2019-02-01",
       "vote_average": 6.95,
       "vote_count": 308,
@@ -242403,10 +242403,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 8.4102,
+      "popularity": 7.869,
       "release_date": "2004-04-16",
       "vote_average": 7.877,
-      "vote_count": 15009,
+      "vote_count": 15010,
       "poster_path": "/js9z3Dyl3OQ3euFyuFdgK25w4CW.jpg",
       "runtime": 110
     },
@@ -242523,7 +242523,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.7615,
+      "popularity": 1.5423,
       "release_date": "2013-03-14",
       "vote_average": 6.942,
       "vote_count": 1149,
@@ -243067,7 +243067,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 17.9051,
+      "popularity": 17.1172,
       "release_date": "2015-07-15",
       "vote_average": 6.449,
       "vote_count": 2654,
@@ -243135,7 +243135,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 7.8881,
+      "popularity": 8.141,
       "release_date": "2020-09-02",
       "vote_average": 7.155,
       "vote_count": 5454,
@@ -243159,10 +243159,10 @@
           "name": "Crime"
         }
       ],
-      "popularity": 6.7722,
+      "popularity": 6.8248,
       "release_date": "2021-05-19",
-      "vote_average": 7,
-      "vote_count": 7680,
+      "vote_average": 7.007,
+      "vote_count": 7681,
       "poster_path": "/o17wrpF3m9w2blQjglcFd5japvV.jpg",
       "runtime": 145
     },
@@ -243531,7 +243531,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 2.2599,
+      "popularity": 2.0327,
       "release_date": "2012-03-30",
       "vote_average": 5.324,
       "vote_count": 1614,
@@ -243551,7 +243551,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 6.9922,
+      "popularity": 6.3773,
       "release_date": "2007-11-23",
       "vote_average": 7.227,
       "vote_count": 4836,
@@ -243607,7 +243607,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 4.6046,
+      "popularity": 4.4031,
       "release_date": "2007-07-19",
       "vote_average": 6.648,
       "vote_count": 783,
@@ -244455,7 +244455,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 1.3448,
+      "popularity": 1.7659,
       "release_date": "2003-04-25",
       "vote_average": 6.271,
       "vote_count": 477,
@@ -244519,7 +244519,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 13.2417,
+      "popularity": 12.8336,
       "release_date": "2004-05-19",
       "vote_average": 7.312,
       "vote_count": 13376,
@@ -245199,7 +245199,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 11.5651,
+      "popularity": 9.8837,
       "release_date": "2017-05-30",
       "vote_average": 7.209,
       "vote_count": 20866,
@@ -245223,7 +245223,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 3.2184,
+      "popularity": 3.0896,
       "release_date": "2018-10-02",
       "vote_average": 6.232,
       "vote_count": 385,
@@ -245247,7 +245247,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.946,
+      "popularity": 2.8679,
       "release_date": "2013-01-04",
       "vote_average": 5.871,
       "vote_count": 826,
@@ -245547,7 +245547,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.3584,
+      "popularity": 1.7056,
       "release_date": "2017-10-20",
       "vote_average": 6.134,
       "vote_count": 676,
@@ -245647,7 +245647,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 1.229,
+      "popularity": 1.7147,
       "release_date": "2017-07-21",
       "vote_average": 5.648,
       "vote_count": 584,
@@ -246087,10 +246087,10 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 12.9032,
+      "popularity": 13.6751,
       "release_date": "2005-12-07",
       "vote_average": 7.134,
-      "vote_count": 11458,
+      "vote_count": 11459,
       "poster_path": "/iq2j02KYasxNzs0fFIynTzPc6Fk.jpg",
       "runtime": 125
     },
@@ -246331,7 +246331,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 1.9929,
+      "popularity": 2.3394,
       "release_date": "2020-01-17",
       "vote_average": 6.993,
       "vote_count": 980,
@@ -246443,7 +246443,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.572,
+      "popularity": 4.0581,
       "release_date": "2011-09-22",
       "vote_average": 6.267,
       "vote_count": 2306,
@@ -246491,7 +246491,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 16.6435,
+      "popularity": 15.6728,
       "release_date": "2016-01-22",
       "vote_average": 5.974,
       "vote_count": 3940,
@@ -246883,10 +246883,10 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.6217,
+      "popularity": 0.685,
       "release_date": "2012-01-18",
-      "vote_average": 5.778,
-      "vote_count": 1346,
+      "vote_average": 5.78,
+      "vote_count": 1347,
       "poster_path": "/eZhBakjVlMhFxxARSUOVKDM7BG7.jpg",
       "runtime": 110
     },
@@ -247275,7 +247275,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 2.2048,
+      "popularity": 2.6741,
       "release_date": "2020-05-13",
       "vote_average": 6.13,
       "vote_count": 1268,
@@ -247739,7 +247739,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 4.9798,
+      "popularity": 4.265,
       "release_date": "2005-08-10",
       "vote_average": 6.395,
       "vote_count": 2516,
@@ -247883,7 +247883,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 5.5355,
+      "popularity": 4.9393,
       "release_date": "1992-10-16",
       "vote_average": 6.646,
       "vote_count": 311,
@@ -247923,10 +247923,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 5.5005,
+      "popularity": 5.2127,
       "release_date": "2013-09-12",
-      "vote_average": 6.681,
-      "vote_count": 4545,
+      "vote_average": 6.682,
+      "vote_count": 4546,
       "poster_path": "/mOYrwxKqyoL9o90zYpQbkfdHeZV.jpg",
       "runtime": 105
     },
@@ -248279,7 +248279,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 0.6471,
+      "popularity": 0.5948,
       "release_date": "2018-01-11",
       "vote_average": 6.038,
       "vote_count": 396,
@@ -248483,7 +248483,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.8568,
+      "popularity": 1.6319,
       "release_date": "2016-11-04",
       "vote_average": 6.8,
       "vote_count": 834,
@@ -248903,10 +248903,10 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 4.8399,
+      "popularity": 5.7399,
       "release_date": "2011-06-14",
-      "vote_average": 5.183,
-      "vote_count": 7631,
+      "vote_average": 5.182,
+      "vote_count": 7632,
       "poster_path": "/dWdzyQ3NcAW6OmAuzoNCxqwtpmq.jpg",
       "runtime": 114
     },
@@ -248923,10 +248923,10 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 11.0642,
+      "popularity": 11.1251,
       "release_date": "2018-10-24",
-      "vote_average": 7.957,
-      "vote_count": 17732,
+      "vote_average": 8,
+      "vote_count": 17733,
       "poster_path": "/guQaXtD3hyCqAkX9AdjPALlaR1A.jpg",
       "runtime": 134
     },
@@ -249019,7 +249019,7 @@
           "name": "Mistero"
         }
       ],
-      "popularity": 3.1451,
+      "popularity": 3.3995,
       "release_date": "2020-02-12",
       "vote_average": 5.76,
       "vote_count": 2623,
@@ -249639,7 +249639,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.7037,
+      "popularity": 3.5056,
       "release_date": "2008-10-09",
       "vote_average": 6.632,
       "vote_count": 3305,
@@ -249659,7 +249659,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 11.2644,
+      "popularity": 10.7037,
       "release_date": "1973-12-26",
       "vote_average": 7.742,
       "vote_count": 8594,
@@ -249935,7 +249935,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 11.4703,
+      "popularity": 12.0376,
       "release_date": "1976-02-09",
       "vote_average": 8.126,
       "vote_count": 13377,
@@ -249959,10 +249959,10 @@
           "name": "Guerra"
         }
       ],
-      "popularity": 8.067,
+      "popularity": 8.3662,
       "release_date": "2003-12-05",
       "vote_average": 7.603,
-      "vote_count": 7503,
+      "vote_count": 7504,
       "poster_path": "/hHYbOZVogfOIVg4FEF2Hs2UUNHs.jpg",
       "runtime": 154
     },
@@ -250343,10 +250343,10 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 3.9869,
+      "popularity": 4.3791,
       "release_date": "1986-05-09",
-      "vote_average": 6.645,
-      "vote_count": 1608,
+      "vote_average": 6.647,
+      "vote_count": 1609,
       "poster_path": "/5bWJvkkIjTb9dYOak1LUwlm0aaY.jpg",
       "runtime": 98
     },
@@ -250675,7 +250675,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 4.6374,
+      "popularity": 4.4373,
       "release_date": "1997-12-12",
       "vote_average": 5.3,
       "vote_count": 3269,
@@ -251079,7 +251079,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 31.0004,
+      "popularity": 29.2379,
       "release_date": "2015-06-25",
       "vote_average": 6.318,
       "vote_count": 7957,
@@ -251235,7 +251235,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 2.7399,
+      "popularity": 2.972,
       "release_date": "2018-10-26",
       "vote_average": 6.083,
       "vote_count": 2237,
@@ -251463,7 +251463,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 13.6526,
+      "popularity": 14.3333,
       "release_date": "2010-06-16",
       "vote_average": 7.804,
       "vote_count": 15667,
@@ -251555,10 +251555,10 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 19.3172,
+      "popularity": 19.854,
       "release_date": "2009-06-02",
-      "vote_average": 7.143,
-      "vote_count": 7429,
+      "vote_average": 7.144,
+      "vote_count": 7430,
       "poster_path": "/78RJUsDqs87ecBkNkO2ZQHZM0JC.jpg",
       "runtime": 108
     },
@@ -252151,7 +252151,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 0.3949,
+      "popularity": 0.3343,
       "release_date": "2015-10-22",
       "vote_average": 4.5,
       "vote_count": 230,
@@ -252607,7 +252607,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 4.7281,
+      "popularity": 5.1753,
       "release_date": "2018-10-03",
       "vote_average": 7.492,
       "vote_count": 12211,
@@ -252631,10 +252631,10 @@
           "name": "Azione"
         }
       ],
-      "popularity": 13.5185,
+      "popularity": 13.5719,
       "release_date": "2005-06-10",
       "vote_average": 7.724,
-      "vote_count": 22526,
+      "vote_count": 22527,
       "poster_path": "/2eNeMwCncDvcJZ4AqKndWX71wDc.jpg",
       "runtime": 140
     },
@@ -252655,7 +252655,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 1.0437,
+      "popularity": 1.2315,
       "release_date": "2018-03-01",
       "vote_average": 5.474,
       "vote_count": 311,
@@ -252787,7 +252787,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 13.9509,
+      "popularity": 12.9165,
       "release_date": "2007-02-15",
       "vote_average": 7.311,
       "vote_count": 5202,
@@ -252855,7 +252855,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 4.2586,
+      "popularity": 3.7003,
       "release_date": "2014-11-12",
       "vote_average": 5.573,
       "vote_count": 3408,
@@ -252875,7 +252875,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 5.8272,
+      "popularity": 5.4746,
       "release_date": "1998-07-15",
       "vote_average": 6.629,
       "vote_count": 5320,
@@ -253551,7 +253551,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 10.3056,
+      "popularity": 10.3606,
       "release_date": "2012-09-20",
       "vote_average": 6.963,
       "vote_count": 9154,
@@ -254071,7 +254071,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 4.2088,
+      "popularity": 4.6972,
       "release_date": "2019-10-09",
       "vote_average": 6.901,
       "vote_count": 6234,
@@ -254275,7 +254275,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 4.522,
+      "popularity": 4.5454,
       "release_date": "2003-08-08",
       "vote_average": 6.158,
       "vote_count": 2692,
@@ -254743,10 +254743,10 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 5.3669,
+      "popularity": 6.1793,
       "release_date": "2012-05-09",
       "vote_average": 6.098,
-      "vote_count": 7590,
+      "vote_count": 7591,
       "poster_path": "/1OWwiB8usDuUoduSFoef2YDPj0j.jpg",
       "runtime": 140
     },
@@ -255335,7 +255335,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 2.8192,
+      "popularity": 2.4812,
       "release_date": "1992-08-28",
       "vote_average": 5.477,
       "vote_count": 597,
@@ -255395,7 +255395,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 8.1912,
+      "popularity": 7.4004,
       "release_date": "1998-03-06",
       "vote_average": 7.839,
       "vote_count": 12129,
@@ -255411,7 +255411,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 0.4581,
+      "popularity": 0.4044,
       "release_date": "1984-10-26",
       "vote_average": 6.524,
       "vote_count": 397,
@@ -255551,7 +255551,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 1.5868,
+      "popularity": 1.9799,
       "release_date": "2018-12-12",
       "vote_average": 7.876,
       "vote_count": 464,
@@ -255603,7 +255603,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 3.5092,
+      "popularity": 3.5809,
       "release_date": "1984-08-10",
       "vote_average": 6.3,
       "vote_count": 881,
@@ -256111,7 +256111,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 2.5889,
+      "popularity": 2.7467,
       "release_date": "2015-02-20",
       "vote_average": 7.491,
       "vote_count": 941,
@@ -256667,7 +256667,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 6.8886,
+      "popularity": 5.9322,
       "release_date": "2010-06-09",
       "vote_average": 6.413,
       "vote_count": 4984,
@@ -257027,10 +257027,10 @@
           "name": "Crime"
         }
       ],
-      "popularity": 2.2886,
+      "popularity": 2.8846,
       "release_date": "2019-05-02",
-      "vote_average": 7,
-      "vote_count": 3527,
+      "vote_average": 6.998,
+      "vote_count": 3528,
       "poster_path": "/j4lJub81kmnBeGSPTbnXI9MovoW.jpg",
       "runtime": 110
     },
@@ -257327,7 +257327,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 3.2325,
+      "popularity": 3.3218,
       "release_date": "2018-10-04",
       "vote_average": 7.125,
       "vote_count": 3037,
@@ -258175,7 +258175,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 3.8974,
+      "popularity": 3.8941,
       "release_date": "2013-05-30",
       "vote_average": 5.179,
       "vote_count": 6849,
@@ -258647,7 +258647,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 2.3126,
+      "popularity": 2.2812,
       "release_date": "2019-08-16",
       "vote_average": 6.204,
       "vote_count": 869,
@@ -259443,7 +259443,7 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 14.2061,
+      "popularity": 15.3173,
       "release_date": "2015-09-30",
       "vote_average": 7.696,
       "vote_count": 21132,
@@ -259507,7 +259507,7 @@
           "name": "Horror"
         }
       ],
-      "popularity": 4.1714,
+      "popularity": 4.3864,
       "release_date": "2016-07-21",
       "vote_average": 6.369,
       "vote_count": 4103,
@@ -259679,7 +259679,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 2.8594,
+      "popularity": 2.3363,
       "release_date": "2012-07-26",
       "vote_average": 6.908,
       "vote_count": 2121,
@@ -260447,7 +260447,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 9.9017,
+      "popularity": 10.1398,
       "release_date": "2016-05-18",
       "vote_average": 6.522,
       "vote_count": 13734,
@@ -260539,7 +260539,7 @@
           "name": "Azione"
         }
       ],
-      "popularity": 14.0489,
+      "popularity": 13.3952,
       "release_date": "2016-10-25",
       "vote_average": 7.419,
       "vote_count": 23382,
@@ -260867,7 +260867,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 6.4216,
+      "popularity": 6.5427,
       "release_date": "2012-05-23",
       "vote_average": 6.542,
       "vote_count": 10950,
@@ -261195,7 +261195,7 @@
           "name": "Commedia"
         }
       ],
-      "popularity": 7.6997,
+      "popularity": 7.1878,
       "release_date": "2013-04-11",
       "vote_average": 4.788,
       "vote_count": 3014,
@@ -261335,10 +261335,10 @@
           "name": "Azione"
         }
       ],
-      "popularity": 20.2761,
+      "popularity": 18.8098,
       "release_date": "2006-07-06",
-      "vote_average": 7.375,
-      "vote_count": 17082,
+      "vote_average": 7.376,
+      "vote_count": 17084,
       "poster_path": "/yH5iDtRaq53q0sSU6EgUatKhrEn.jpg",
       "runtime": 145
     },
@@ -261531,7 +261531,7 @@
           "name": "Fantasy"
         }
       ],
-      "popularity": 18.0105,
+      "popularity": 17.8888,
       "release_date": "2010-11-17",
       "vote_average": 7.734,
       "vote_count": 20303,
@@ -261715,9 +261715,9 @@
           "name": "Western"
         }
       ],
-      "popularity": 13.3964,
+      "popularity": 12.2794,
       "release_date": "2012-12-25",
-      "vote_average": 8.2,
+      "vote_average": 8.19,
       "vote_count": 27946,
       "poster_path": "/igYptikalrjsMueMx6rz15lE4Ts.jpg",
       "runtime": 165
@@ -262027,7 +262027,7 @@
           "name": "Romance"
         }
       ],
-      "popularity": 15.3919,
+      "popularity": 15.3059,
       "release_date": "1999-07-09",
       "vote_average": 6.604,
       "vote_count": 8270,
@@ -262115,7 +262115,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 5.5578,
+      "popularity": 5.6893,
       "release_date": "1979-06-15",
       "vote_average": 7.29,
       "vote_count": 4770,
@@ -262371,7 +262371,7 @@
           "name": "Crime"
         }
       ],
-      "popularity": 6.6054,
+      "popularity": 5.8038,
       "release_date": "2011-11-22",
       "vote_average": 7.144,
       "vote_count": 10904,
@@ -262443,10 +262443,10 @@
           "name": "Avventura"
         }
       ],
-      "popularity": 49.5956,
+      "popularity": 48.5949,
       "release_date": "2012-04-25",
-      "vote_average": 8.018,
-      "vote_count": 37705,
+      "vote_average": 8.019,
+      "vote_count": 37712,
       "poster_path": "/7oVUxo9FyjLKew0nwmAJgRFfg2G.jpg",
       "runtime": 143
     },
@@ -262855,7 +262855,7 @@
           "name": "Famiglia"
         }
       ],
-      "popularity": 2.0974,
+      "popularity": 2.0932,
       "release_date": "2008-10-11",
       "vote_average": 6.5,
       "vote_count": 3595,
@@ -262895,10 +262895,10 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.2423,
+      "popularity": 1.1859,
       "release_date": "2009-04-02",
-      "vote_average": 6.7,
-      "vote_count": 7771,
+      "vote_average": 6.69,
+      "vote_count": 7772,
       "poster_path": "/cRm3gOzayatZhUH9snh4lVEprVW.jpg",
       "runtime": 107
     },
@@ -263059,10 +263059,10 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 25.2897,
+      "popularity": 21.4993,
       "release_date": "2017-12-13",
       "vote_average": 6.752,
-      "vote_count": 16288,
+      "vote_count": 16289,
       "poster_path": "/qh6rvwO2lrEJn9LwR2viMTi05Wy.jpg",
       "runtime": 150
     },
@@ -263195,7 +263195,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 2.4602,
+      "popularity": 2.3583,
       "release_date": "2006-06-03",
       "vote_average": 6.5,
       "vote_count": 7577,
@@ -263467,7 +263467,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 1.6228,
+      "popularity": 1.5787,
       "release_date": "2003-06-05",
       "vote_average": 6.5,
       "vote_count": 8107,
@@ -263515,7 +263515,7 @@
           "name": "Dramma"
         }
       ],
-      "popularity": 7.0471,
+      "popularity": 8.0049,
       "release_date": "2019-10-18",
       "vote_average": 7.986,
       "vote_count": 10365,
@@ -263539,7 +263539,7 @@
           "name": "Fantascienza"
         }
       ],
-      "popularity": 6.2372,
+      "popularity": 6.4494,
       "release_date": "2015-11-18",
       "vote_average": 6.901,
       "vote_count": 13311,
@@ -263591,7 +263591,7 @@
           "name": "Thriller"
         }
       ],
-      "popularity": 7.1586,
+      "popularity": 7.0587,
       "release_date": "2012-03-12",
       "vote_average": 7.222,
       "vote_count": 23238,
